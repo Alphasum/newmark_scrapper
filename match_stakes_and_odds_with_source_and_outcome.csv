@@ -1,0 +1,897 @@
+source,DAY,TIME,MATCH / LEAGUE,TIP,STAKE,ODDS,BOOKMAKER,SCORE,outcome
+Pignoufett,1,18:00,R. Union - Celta Vigo B,x,30.00,3.04,,3 : 2,loss
+Pignoufett,1,18:15,Eyupspor - Trabzonspor,1,30.00,2.37,,0 : 0,loss
+Pignoufett,2,23:00,Ameliano - Sp. Luqueno,x,30.00,3.04,,3 : 1,loss
+Pignoufett,3,20:00,Mercedes - Sportivo Barracas /Argentina Primera C,1:0,30.00,5.00,,NO,undefined
+Pignoufett,3,20:00,Mercedes - Sportivo Barracas,1,30.00,2.26,,0 : 2,loss
+Pignoufett,4,03:00,Atlas W - Juarez W,1,30.00,3.69,,1 : 0,win
+Pignoufett,4,03:00,Atlas - Juarez /Mexico Liga MX Women,1,30.00,3.10,,1 : 0,win
+Pignoufett,5,22:30,Vargas Torres - Manta,1,30.00,2.27,,0 : 0,loss
+Pignoufett,8,20:45,Switzerland - Spain,x,30.00,3.55,,1 : 4,loss
+BLX,2,19:00,Trollhattan - Ljungskile SK /Sweden Division 1 - Södra,1,30.00,1.51,,1 : 1,loss
+BLX,2,20:30,Sp. Carapegua - 3 de Febrero,1,30.00,1.55,,2 : 3,loss
+BLX,3,19:30,MIBR - 9Z Team,2,30.00,1.56,,2 : 0,loss
+BLX,3,20:45,Hereford - Needham Market,1,30.00,1.51,,0 : 1,loss
+BLX,4,12:00,Yokohama F. Marinos - Hokkaido Consadole Sapporo,1,30.00,1.52,,6 : 1,win
+BLX,4,19:30,Jack Draper - Alex de Minaur /ATP US Open (hard),"over 3,5 sets",30.00,1.50,,3 : 0,undefined
+BLX,5,03:00,Mexico - Monterrey,1,30.00,1.55,,14 : 6,win
+BLX,5,18:00,Iraq - Oman,1,30.00,1.53,,1 : 0,win
+BLX,6,19:00,Kristianstad - Osterlen,1,30.00,1.55,,2 : 1,win
+BLX,6,21:00,Jannik Sinner - Jack Draper,"over 31,5 games",30.00,1.50,,3 : 0,undefined
+BLX,7,18:00,Pirin Blagoevgrad - Marek,1,30.00,1.52,,1 : 1,loss
+BLX,7,22:05,Baltimore Orioles - Tampa Bay Rays,1,30.00,1.52,,1 : 7,loss
+BLX,8,20:45,Croatia - Poland,1,30.00,1.69,,1 : 0,win
+BLX,8,13:00,Umea FC - Algarna-Harnosand,1,30.00,1.65,,1 : 1,loss
+BLX,9,20:45,Turkey - Iceland,1,30.00,1.59,,3 : 1,win
+BLX,9,17:00,Vukovar 1991 - Cibalia,1,30.00,1.52,,2 : 0,win
+BLX,10,10:30,France U19 - Poland U19,1,30.00,1.54,,2 : 1,win
+BLX,10,00:00,U. De Chile - Palestino,1,30.00,1.56,,0 : 1,loss
+BLX,11,19:00,Lokomotive Leipzig - Zwickau,1,30.00,1.55,,3 : 2,win
+BLX,11,17:00,Zlin B - Uhersky Brod /Czech Republic 3. MSFL,1,30.00,1.50,,0 : 1,loss
+BLX,12,22:30,Ind. Juniors - Manta,1,30.00,1.50,,1 : 2,loss
+BLX,13,17:30,Araz - Kapaz,1,30.00,1.51,,1 : 0,win
+BLX,13,03:00,Correcaminos - Alebrijes Oaxaca,1,30.00,1.50,,1 : 3,loss
+BLX,14,13:35,Changchun Yatai - Nantong Zhiyun,1,30.00,1.67,,3 : 2,win
+BLX,14,16:00,Tartu Welco - Tallinna Kalev U21,1,30.00,1.51,,3 : 0,win
+BLX,15,16:00,Falkenberg - Jonkoping,1,30.00,1.54,,3 : 0,win
+BLX,15,15:00,Rudes - Bijelo Brdo,1,30.00,1.52,,1 : 0,win
+BLX,21,12:00,Machida - Hokkaido Consadole Sapporo,1,30.00,1.53,,0 : 0,loss
+BLX,22,17:30,Lech Poznan - Slask Wroclaw,1,30.00,1.50,,1 : 0,win
+BLX,22,15:00,Lokomotiv Oslo - Aalesund 2,1,30.00,1.51,,3 : 3,loss
+BLX,23,13:00,Tomas Barrios Vera - Daniel Altmaier,2,30.00,1.54,,2 : 1,loss
+BLX,23,21:00,Fleetwood - Morecambe,1,30.00,1.56,,2 : 2,loss
+BLX,24,14:30,Novosibirsk - Sochi,1,30.00,1.57,,4 : 2,win
+BLX,24,20:45,Atalanta - Como,1,30.00,1.51,,2 : 3,loss
+BLX,25,16:00,Paide - Narva,1,30.00,1.54,,Soccer,undefined
+BLX,25,17:30,Ilves - KooKoo,1,30.00,1.56,,Hockey,undefined
+maer20,1,17:00,Osasuna - Celta Vigo,1,30.00,2.33,,3 : 2,win
+maer20,1,19:00,Sevilla - Girona,1,30.00,2.33,,0 : 2,loss
+maer20,2,18:00,Unirea Slobozia - Gloria Buzau,1,30.00,2.09,,2 : 1,win
+maer20,2,19:00,Levanger - Egersund,1,30.00,2.09,,2 : 1,win
+maer20,3,02:30,Dep. Cali - Dep. Pasto,1,30.00,2.06,,0 : 2,loss
+maer20,3,19:30,Chindia Targoviste - Afumati,1,30.00,2.28,,0 : 1,loss
+maer20,4,02:30,Guarani - Coritiba,1,30.00,2.39,,2 : 1,win
+maer20,4,01:00,Pereira - Once Caldas,1,30.00,2.18,,0 : 1,loss
+maer20,5,20:45,Denmark - Switzerland,1,30.00,2.25,,2 : 0,win
+maer20,5,20:45,Dundalk - St. Patricks,1,30.00,2.36,,1 : 2,loss
+maer20,6,20:45,Iceland - Montenegro,1,30.00,2.08,,2 : 0,win
+maer20,6,21:00,Tenerife - Racing Santander,1,30.00,2.44,,0 : 1,loss
+maer20,7,15:00,Hutnik Krakow - Ol. Grudziadz,1,30.00,2.30,,1 : 1,loss
+maer20,7,18:30,Huesca - Burgos CF,1,30.00,2.28,,0 : 1,loss
+maer20,8,18:00,Bulgaria - Northern Ireland,1,30.00,2.72,,1 : 0,win
+maer20,8,20:00,Danubio - Boston River,1,30.00,2.35,,2 : 0,win
+maer20,9,20:45,Norway - Austria,1,30.00,2.37,,2 : 1,win
+maer20,9,04:00,Real Monarchs - Town FC,1,30.00,2.32,,2 : 1,win
+maer20,10,00:30,Rentistas - Oriental,1,30.00,2.31,,0 : 0,loss
+maer20,10,20:45,Albania - Georgia,1,30.00,2.37,,0 : 1,loss
+maer20,11,04:00,Herediano - San Carlos,1,30.00,1.85,,1 : 2,loss
+maer20,11,16:00,Fezzanese - Seravezza Pozzi,1,30.00,3.27,,1 : 3,loss
+maer20,12,01:00,America De Cali - Deportes Tolima,1,30.00,2.04,,1 : 0,win
+maer20,12,11:30,Adelaide United - WS Wanderers,1,30.00,2.52,,1 : 1,loss
+maer20,13,20:45,Dunfermline - Raith,1,30.00,2.81,,2 : 0,win
+maer20,13,20:30,GKS Katowice - Widzew Lodz,1,30.00,2.59,,2 : 2,loss
+maer20,14,16:00,Port Vale - Chesterfield,1,30.00,2.38,,1 : 0,win
+maer20,14,22:30,O'Higgins - Coquimbo,1,30.00,2.40,,1 : 1,loss
+maer20,15,16:00,Academica - Atletico CP,1,30.00,2.14,,1 : 3,loss
+maer20,15,19:00,Linense - San Fernando,1,30.00,2.12,,0 : 2,loss
+maer20,16,19:00,Start - Levanger,1,30.00,2.22,,1 : 1,loss
+maer20,16,20:45,Lucchese - Rimini,1,30.00,2.19,,2 : 2,loss
+maer20,17,20:00,FC Volendam - Dordrecht,1,30.00,2.06,,2 : 0,win
+maer20,17,20:00,Anderlecht - Genk,1,30.00,2.16,,0 : 2,loss
+maer20,18,18:45,Sparta Prague - Salzburg,1,30.00,2.42,,3 : 0,win
+maer20,18,19:00,Orebro - Sandviken,1,30.00,2.30,,1 : 0,win
+maer20,19,17:00,Lahti - Mariehamn,1,30.00,2.07,,2 : 1,win
+maer20,19,19:00,Hacken - Djurgarden,1,30.00,2.24,,1 : 2,loss
+maer20,20,20:00,Otelul - Din. Bucuresti,1,30.00,2.39,,1 : 1,loss
+maer20,20,21:00,Stoke - Hull,1,30.00,2.04,,1 : 3,loss
+maer20,21,21:00,Zaragoza - Levante,1,30.00,2.05,,2 : 1,win
+maer20,21,20:45,Lecce - Parma,1,30.00,2.22,,2 : 2,loss
+maer20,22,21:00,Danubio - Liverpool M.,1,30.00,2.44,,1 : 0,win
+maer20,22,21:00,Atletico-MG - Bragantino,1,30.00,2.17,,3 : 0,win
+maer20,23,18:00,RFS - Riga FC,1,30.00,2.17,,2 : 1,win
+maer20,23,20:30,Pescara - Perugia,1,30.00,2.13,,0 : 0,loss
+maer20,24,20:30,Rodez - Laval,1,30.00,2.22,,1 : 3,loss
+maer20,24,20:45,Wigan - Stevenage,1,30.00,2.32,,0 : 0,loss
+maer20,25,21:00,Nice - Real Sociedad,1,30.00,2.41,,Soccer,undefined
+maer20,25,21:00,Midtjylland - Hoffenheim,1,30.00,2.44,,Soccer,undefined
+maer20,26,18:45,Malmo FF - Rangers,1,30.00,2.35,,Soccer,undefined
+maer20,26,21:00,AS Roma - Ath. Bilbao,1,30.00,2.02,,Soccer,undefined
+maer20,27,20:00,Grenoble - Clermont,1,30.00,2.25,,Soccer,undefined
+maer20,27,20:45,Wexford - UC Dublin,1,30.00,2.41,,Soccer,undefined
+maer20,28,18:30,HJK - Ilves,1,30.00,2.31,,Soccer,undefined
+maer20,28,21:00,Malaga - Elche,1,30.00,2.51,,Soccer,undefined
+kapsel007,1,18:00,Rublev A. - Dimitrov G.,1,30.00,1.83,,2 : 3,loss
+kapsel007,1,20:45,Lille - PSG,1,30.00,3.94,,1 : 3,loss
+kapsel007,2,10:00,Neumayer L. - Kopp S.,1,30.00,1.58,,2 : 0,win
+kapsel007,2,18:00,Gadecki O. - Riera J.,1,30.00,1.52,,2 : 0,win
+kapsel007,3,23:00,Skupski N./Venus M. - Arevalo M./Pavic M.,2,30.00,1.50,,0 : 2,win
+kapsel007,3,22:00,Stefanini L. - Vickery S.,2,30.00,1.80,,2 : 0,loss
+kapsel007,5,21:37,Oakland Athletics - Seattle Mariners,2,30.00,1.64,,4 : 6,win
+kapsel007,5,20:45,Portugal - Croatia,1,30.00,1.55,,2 : 1,win
+kapsel007,6,02:30,Pegula J. - Muchova K.,1,30.00,1.58,,2 : 1,win
+kapsel007,8,20:45,Switzerland - Spain,2,30.00,1.83,,1 : 4,win
+kapsel007,8,10:00,Stankovic A. - Bulatova A.,1,30.00,1.55,,0 : 2,loss
+kapsel007,9,20:45,France - Belgium,1,30.00,1.84,,2 : 0,win
+kapsel007,9,20:45,Turkey - Iceland,1,30.00,1.58,,3 : 1,win
+kapsel007,10,21:30,Ibbou I./Karamoko N. - Barnett A./Haverlag I.,2,30.00,1.50,,2 : 0,loss
+kapsel007,11,00:40,Philadelphia Phillies - Tampa Bay Rays,1,30.00,1.55,,9 : 4,win
+kapsel007,11,19:00,Lokomotive Leipzig - Zwickau,1,30.00,1.55,,3 : 2,win
+kapsel007,12,05:30,Kukushkin M. - Svrcina D.,1,30.00,1.68,,2 : 1,win
+kapsel007,12,14:00,PSBS Biak Numfor - Persija Jakarta,2,30.00,1.58,,3 : 1,loss
+kapsel007,14,19:00,Ol. Grudziadz - Olimpia Elblag,1,30.00,1.68,,4 : 0,win
+kapsel007,14,22:00,Arias B./Zeballos F. - Behar A./Carou I.,1,30.00,1.65,,1 : 2,loss
+kapsel007,15,21:30,Brazil U20 W - North Korea U20 W,2,30.00,1.54,,0 : 1,win
+kapsel007,15,22:35,Vandecasteele Q. - Braswell M.,2,30.00,1.53,,1 : 2,win
+kapsel007,18,21:00,Club Brugge KV - Dortmund,2,30.00,2.00,,0 : 1,win
+kapsel007,18,17:30,Kauno Zalgiris - Banga,1,30.00,1.56,,0 : 1,loss
+kapsel007,19,18:45,Crvena zvezda - Benfica,2,30.00,1.94,,1 : 2,win
+kapsel007,19,10:00,Ramos A. - Taberner C.,1,30.00,1.83,,1 : 2,loss
+kapsel007,20,21:30,Ma L. - Chang S.,2,30.00,1.59,,0 : 2,win
+kapsel007,20,21:00,Stoke - Hull,1,30.00,2.05,,1 : 3,loss
+kapsel007,21,23:00,Oriente Petrolero - Tomayapo,1,30.00,1.60,,4 : 2,win
+kapsel007,21,23:00,USA U20 W - Netherlands U20 W,1,30.00,1.53,,2 : 1,win
+kapsel007,22,15:15,Zverev A. - Tiafoe F.,1,30.00,1.50,,2 : 1,win
+kapsel007,22,18:30,Genk - Dender / Belgium Jupiler League,1,30.00,1.50,,4 : 0,win
+kapsel007,23,12:30,Andreev A. - Fonio G.,1,30.00,1.50,,1 : 2,loss
+kapsel007,23,13:00,Barrios Vera T. - Altmaier D.,2,30.00,1.55,,2 : 1,loss
+kapsel007,24,22:00,Cajamarca - Carlos Mannucci,1,30.00,1.79,,2 : 0,win
+kapsel007,24,23:30,Hu V./Miroshnichenko V. - Brace C./Corley P.,1,30.00,1.50,,1 : 2,loss
+Vitpas,3,20:00,Carlisle - Nottingham U21,1,30.00,1.53,,1 : 2,loss
+Vitpas,4,12:00,Yokohama F. Marinos - Hokkaido Consadole Sapporo,1,30.00,1.61,,6 : 1,win
+Vitpas,4,17:00,Benesov - Pisek,1,30.00,3.62,,1 : 3,loss
+Vitpas,5,20:00,Jordan - Kuwait,1,30.00,1.54,,1 : 1,loss
+Vitpas,5,20:45,Serbia - Spain,2,30.00,1.62,,0 : 0,loss
+Vitpas,6,16:00,Kazakhstan - Norway,2,30.00,1.53,,0 : 0,loss
+Vitpas,6,20:45,France - Italy,1,30.00,1.67,,1 : 3,loss
+Vitpas,19,16:00,Atl. Madrid U19 - RB Leipzig U19,1,30.00,1.72,,4 : 0,win
+Vitpas,19,15:00,UPDF - Lugazi,1,30.00,1.56,,1 : 0,win
+Vitpas,20,12:55,Hapoel Herzliya - Hapoel Bnei Lod,1,30.00,1.52,,1 : 1,loss
+Vitpas,20,17:00,Bordj Menail - Ouargla,1,30.00,1.53,,1 : 1,loss
+Vitpas,21,16:00,Coleraine - Loughgall,1,30.00,1.60,,2 : 0,win
+Vitpas,21,16:00,Aston Villa - Wolves,1,30.00,1.58,,3 : 1,win
+vini1981,18,20:45,Brighton - Wolves,1,30.00,1.52,,3 : 2,win
+vini1981,22,16:00,Victoria Rosport - Mondercange,1,30.00,1.60,,2 : 0,win
+vini1981,22,19:00,Chabab Mohammedia - Olympique de Safi,2,30.00,1.58,,1 : 2,win
+vini1981,23,18:00,Lysekloster - Viking 2,1,30.00,1.51,,2 : 1,win
+vini1981,23,21:15,Breidablik - Akranes / Iceland,1,30.00,1.50,,2 : 0,win
+vini1981,25,20:00,Union Titus Petange - Wiltz,1,30.00,1.53,,Soccer,undefined
+vini1981,25,20:45,Havant & W - Marlow,1,30.00,1.54,,Soccer,undefined
+marta81,9,18:00,Portugal U20 - Poland U20,1,30.00,1.58,,2 : 1,win
+marta81,9,18:00,Kiryat Yam - Ihud Bnei Shfaram,1,30.00,1.57,,7 : 0,win
+marta81,10,18:30,Naft Gachsaran - Shahrdari Noshahr,1,30.00,1.63,,1 : 0,win
+marta81,10,20:45,Worksop - Ilkeston,1,30.00,1.56,,2 : 0,win
+marta81,11,19:00,Lokomotive Leipzig - Zwickau,1,30.00,1.55,,3 : 2,win
+marta81,11,20:00,Palmeiras - Athletico-PR /Brasileiro U20,1,30.00,1.53,,3 : 1,win
+marta81,13,19:15,Thor/KA - Valur /Besta deild Women,2,30.00,1.50,,0 : 1,win
+marta81,15,18:30,Charleroi - Beerschot VA,1,30.00,1.56,,3 : 0,win
+marta81,15,23:30,Maringa FC - Anapolis,1,30.00,1.51,,0 : 1,loss
+marta81,16,23:00,Atl. Tembetary - Pastoreo,1,30.00,1.55,,2 : 0,win
+lech7321,1,14.45,Legia - Motor Lublin /Ekstraklasa,"1 / over 1,5 goals",30.00,1.87,,5 : 2,undefined
+lech7321,1,14:30,Chelsea - Crystal Palace,1,30.00,1.65,,1 : 1,loss
+lech7321,2,17:00,Muchova K. - Paolini J.,1,30.00,1.65,,2 : 0,win
+lech7321,4,19:00,Jena - Erfurt,1,30.00,1.55,,5 : 1,win
+lech7321,4,01:00,Connecticut Sun W - Seattle Storm W,1,30.00,1.51,,64 : 71,loss
+lech7321,5,18:00,Iraq - Oman,1,30.00,1.53,,1 : 0,win
+lech7321,5,12.00,Gyeongju- Soul City /WK League Women,1,30.00,1.52,,4 : 3,win
+lech7321,6,20.45,Belgia - Izrael /UEFA Nations League,"1 / over 2,5 goals",30.00,1.64,,3 : 1,undefined
+lech7321,7,16:00,Eastleigh - Tamworth,1,30.00,1.68,,1 : 0,win
+lech7321,11,19:00,Lokomotive Leipzig - Zwickau,1,30.00,1.55,,3 : 2,win
+lech7321,17,21:00,Sporting CP - Lille,1,30.00,1.66,,2 : 0,win
+wp76,7,20:45,Greece - Finland,1,30.00,1.62,,3 : 0,win
+wp76,7,18:00,Ireland - England,2,30.00,1.51,,0 : 2,win
+wp76,8,03:00,Spokane Velocity - Central Valley Fuego,1,30.00,1.59,,3 : 2,win
+wp76,8,02:00,Xelaju - Xinabajul,1,30.00,1.51,,2 : 0,win
+wp76,9,20:45,France - Belgium,1,30.00,1.69,,2 : 0,win
+wp76,9,20:45,Turkey - Iceland,1,30.00,1.54,,3 : 1,win
+wp76,10,15:00,Botswana - Egypt,2,30.00,1.52,,0 : 4,win
+wp76,10,15:00,Rwanda - Nigeria,2,30.00,1.65,,0 : 0,loss
+wp76,11,23:30,Sol de America - Libertad Asuncion,2,30.00,1.57,,0 : 1,win
+wp76,11,02:30,Paraguay - Brazil,2,30.00,1.58,,1 : 0,loss
+wp76,21,18:00,Cincinnati Bearcats - Houston,1,30.00,1.56,,34 : 0,win
+wp76,21,21:30,Texas Tech - Arizona State,1,30.00,1.54,,30 : 22,win
+wp76,22,02:30,Oregon State - Purdue,1,30.00,1.57,,38 : 21,win
+wp76,22,18:30,Genk - Dender,1,30.00,1.50,,4 : 0,win
+wp76,24,20:45,Atalanta - Como /Italy Serie A,1,30.00,1.50,,2 : 3,loss
+wercia,4,18:00,Israel - Germany /Euro U21,Over 2.5,30.00,1.50,,1 : 5,undefined
+wercia,5,20:45,Estonia - Slovakia,2,1.00,1.55,,0 : 1,win
+wercia,5,20:45,Portugal - Croatia /UEFA Nations League,2-4 gols,1.00,1.54,,2 : 1,undefined
+wercia,7,18:30,Sparta Praga - Fehervar,Over 5.5,1.00,1.52,,5 : 2,undefined
+wercia,8,12:00,Grorud - Alta /Norway Division 2 - Group 2,Under 4.5,1.00,1.50,,3 : 1,undefined
+wercia,13,20:30,Aluron Warta - Bogdanka Lublin  / Poland Plus Liga,Over 3.5 seta,1.00,1.57,,2 : 3,undefined
+wercia,15,15:00,Tottenham - Arsenal  / England Premier League,BTS,1.00,1.50,,0 : 1,undefined
+wercia,18,21:00,Club Brugge - Borussia Dortmund / Champions League,Over 2.5,1.00,1.64,,0 : 3,undefined
+wercia,19,21:00,Monaco - Barcelona / Champions League,BTS,30.00,1.50,,2 : 1,undefined
+wercia,19,21:00,Monaco - Barcelona,2,1.00,1.69,,2 : 1,loss
+tomek3588,5,11:30,Rossi L. - Hjorth P.,1,30.00,1.55,,2 : 0,win
+tomek3588,6,02:20,Kansas City Chiefs - Baltimore Ravens,1,30.00,1.63,,27 : 20,win
+tomek3588,7,02:20,Philadelphia Eagles - Green Bay Packers,1,30.00,1.73,,34 : 29,win
+tomek3588,8,19:00,Indianapolis Colts - Houston Texans,2,30.00,1.63,,27 : 29,win
+tomek3588,13,02:15,Miami Dolphins - Buffalo Bills /NFL,"team 2 over 20,5 points",30.00,1.52,,10 : 31,undefined
+tomek3588,14,15:30,VfL Wolfsburg - Eintracht Frankfurt / Bundesliga,BTS,30.00,1.57,,1 : 2,undefined
+tomek3588,15,22:25,Kansas City Chiefs - Cincinnati Bengals / USA NFL,"1 (-2,5 HC)",30.00,1.50,,26 : 25,undefined
+tomek3588,18,21:00,Club Bruegge - Borussia Dortmund /Champions League,BVB will win 1st or 2nd Half,30.00,1.53,,0 : 3,undefined
+tomek3588,19,18:45,Feyenoord - Bayer Leverkusen,2,30.00,1.62,,0 : 4,win
+tomek3588,22,19:30,St. Pauli - RB Leipzig,2,30.00,1.64,,0 : 0,loss
+tomek3588,23,02:20,Atlanta Falcons - Kansas City Chiefs,2,30.00,1.57,,17 : 22,win
+tomek3588,24,20:45,Atalanta - Como /Italy,1,30.00,1.53,,2 : 3,loss
+Vinchenso,7,20:00,Joventut Badalona (Esp) - Basket Zaragoza (Esp),1,30.00,1.53,,86 : 76,win
+Vinchenso,7,18:00,Reggiana (Ita) - Treviso (Ita),1,30.00,1.58,,80 : 93,loss
+Vinchenso,8,01:00,Edmonton Elks - Calgary Stampeders,1,30.00,1.53,,37 : 16,win
+Vinchenso,8,01:00,Air Force - San Jose State,1,30.00,1.52,,7 : 17,loss
+Vinchenso,9,20:45,France - Belgium,1,30.00,1.69,,2 : 0,win
+Vinchenso,9,20:45,Turkey - Iceland,1,30.00,1.54,,3 : 1,win
+Vinchenso,14,23:00,Marathon - Real Sociedad,1,30.00,1.56,,1 : 1,loss
+Vinchenso,14,23:30,Imbabura - LDU Quito,2,30.00,1.55,,4 : 0,loss
+Vinchenso,15,02:00,Botafogo RJ - Corinthians,1,30.00,1.56,,2 : 1,win
+Vinchenso,15,13:00,Dundee-Rangers / Scotland Premiership,2,30.00,1.52,,0 : 1,win
+Vinchenso,16,01:15,Seattle Sounders - Sporting Kansas City,1,30.00,1.58,,2 : 0,win
+Vinchenso,23,18:30,Lokomotiv Yaroslavl - Cherepovets,1,30.00,1.65,,4 : 1,win
+Vinchenso,23,21:15,Breidabik-Akranes /Besta deild karla,1,30.00,1.52,,2 : 0,win
+Vinchenso,24,14:30,Novosibirsk - Sochi,1,30.00,1.68,,4 : 2,win
+Vinchenso,24,18:00,Zvolen - Liptovsky Mikulas,1,30.00,1.52,,7 : 2,win
+Wilenma,1,18:45,Zira - Qarabag,2,30.00,1.60,,1 : 3,win
+Wilenma,1,16:00,Cruzeiro - Atletico GO,1,30.00,1.58,,3 : 1,win
+Wilenma,2,01:00,Orlando City B - Huntsville,1,30.00,1.57,,2 : 1,win
+Wilenma,2,02:00,Colon Santa Fe - Deportivo Moron,1,30.00,1.54,,1 : 0,win
+Wilenma,17,21:00,Sporting CP - Lille,1,30.00,1.66,,2 : 0,win
+Wilenma,18,21:00,Manchester City - Inter,1,30.00,1.51,,0 : 0,loss
+Wilenma,19,18:00,Riga FC - Valmiera,1,30.00,1.59,,1 : 0,win
+Wilenma,19,15:00,UPDF - Lugazi,1,30.00,1.56,,1 : 0,win
+Wilenma,20,03:00,Carlos Mannucci - FBC Melgar,2,30.00,1.56,,1 : 1,loss
+Wilenma,20,03:30,Real Espana - Victoria,1,30.00,1.54,,1 : 1,loss
+Wilenma,22,11:30,Sanfrecce Hiroshima - Yokohama F. Marinos,1,30.00,1.56,,6 : 2,win
+Wilenma,22,11:30,Penang - Negeri Sembilan,1,30.00,1.57,,2 : 2,loss
+Wilenma,23,00:00,Sarmiento de La Banda - Ciudad Bolivar,1,30.00,1.54,,1 : 0,win
+Wilenma,23,00:00,Houston Dynamo 2 - Colorado Rapids 2,1,30.00,1.50,,2 : 1,win
+Wilenma,24,19:45,Rapperswil - Ajoie,1,30.00,1.53,,6 : 2,win
+Wilenma,24,19:45,Zug - Ambri-Piotta,1,30.00,1.52,,2 : 3,loss
+Wilenma,25,17:30,Ilves - KooKoo,1,30.00,1.54,,Hockey,undefined
+Wilenma,25,17:30,Kärpät - JYP,1,30.00,1.55,,Hockey,undefined
+falandysza,7,15:00,Fram - Vindbjart,1,30.00,1.72,,1 : 0,win
+falandysza,7,10:00,Beijing Beikong K - Wuhan Jiangda K,2,30.00,1.55,,0 : 3,win
+falandysza,8,20:00,Crucero del Norte - Juventud Antoniana,1,30.00,1.85,,1 : 0,win
+falandysza,8,16:00,IR Reykjavik - Grotta,1,30.00,1.50,,2 : 1,win
+falandysza,9,18:00,Afyonspor - Iskenderunspor,2,30.00,1.82,,1 : 2,win
+falandysza,9,01:00,Huila - Tigres,1,30.00,1.60,,4 : 0,win
+falandysza,10,20:45,Northern Ireland U21 - Ukraine U21,2,30.00,1.53,,1 : 2,win
+falandysza,11,16:30,Lovcen - Kom Podgorica,1,30.00,1.62,,3 : 0,win
+falandysza,11,17:00,Zlin B - Uhersky Brod /Czech Republic 3. MSFL,1,30.00,1.50,,0 : 1,loss
+falandysza,13,20:00,D. Zagreb - Hajduk Split,1,30.00,1.56,,0 : 1,loss
+falandysza,15,21:00,Real Oruro - Rio San Juan,1,30.00,1.57,,4 : 1,win
+falandysza,15,23:30,Sport Recife - CRB,1,30.00,1.53,,2 : 0,win
+falandysza,16,01:30,Blooming - GV San Jose,1,30.00,1.50,,1 : 2,loss
+falandysza,17,16:30,Vukovar 1991 - Opatija /Croatia Prva NL,1,30.00,1.61,,1 : 1,loss
+falandysza,17,20:45,Guiseley - Morpeth,1,30.00,1.65,,3 : 3,loss
+call911,18,19:00,Brann - KFUM Oslo,1,30.00,1.55,,2 : 0,win
+call911,18,18:00,Kristiansund - Molde,2,30.00,1.51,,0 : 4,win
+call911,19,17:40,Al Akhdoud - Al Qadisiya,2,30.00,1.55,,0 : 0,loss
+call911,19,19:00,Helsingborg - Oddevold,1,30.00,1.96,,0 : 0,loss
+call911,20,17:00,Al Ramtha - Al Sareeh,1,30.00,1.95,,2 : 1,win
+call911,20,20:45,Nice - St Etienne,1,30.00,1.56,,8 : 0,win
+call911,21,16:00,Aston Villa - Wolves,1,30.00,1.56,,3 : 1,win
+call911,21,17:00,Lille - Strasbourg,1,30.00,1.61,,3 : 3,loss
+call911,23,19:30,Xamax - Stade Nyonnais,1,30.00,1.87,,3 : 2,win
+call911,23,19:00,KFUM Oslo - Molde,2,30.00,1.94,,1 : 1,loss
+call911,24,20:30,Pau FC - Lorient,1,30.00,3.69,,1 : 0,win
+call911,24,20:30,Caen - Amiens,1,30.00,1.94,,2 : 1,win
+Recreza,1,02:30,Chicago Fire - Inter Miami,2,30.00,2.67,,1 : 4,win
+Recreza,1,01:00,Municipal Limeno - FAS,1,30.00,2.02,,1 : 1,loss
+Recreza,7,11:00,Giravanz Kitakyushu - Imabari,2,30.00,2.18,,0 : 3,win
+Recreza,7,20:45,ACR Messina - Taranto,1,30.00,2.04,,4 : 1,win
+Recreza,9,17:00,Niger - Ghana,2,30.00,1.60,,1 : 1,loss
+Recreza,11,19:00,Lokomotive Leipzig - Zwickau,1,30.00,1.55,,3 : 2,win
+Recreza,11,19:00,Skenderbeu - Teuta,x,30.00,3.16,,2 : 3,loss
+Recreza,17,18:45,Juventus - PSV,1,30.00,1.75,,3 : 1,win
+Recreza,17,20:45,QPR - Crystal Palace,2,30.00,1.75,,1 : 2,win
+Recreza,19,21:00,Atl. Madrid - RB Leipzig,1,30.00,1.74,,2 : 1,win
+Recreza,19,21:00,Atalanta - Arsenal,2,30.00,1.82,,0 : 0,loss
+Recreza,21,08:00,Gimhae - Ulsan Citizen,1,30.00,1.58,,1 : 0,win
+Recreza,21,17:00,Vision - Legon Cities,1,30.00,1.85,,1 : 1,loss
+Recreza,22,16:30,Viktoria Koln - Verl,1,30.00,2.42,,2 : 1,win
+Recreza,22,16:15,Ath Bilbao - Celta Vigo,1,30.00,1.71,,3 : 1,win
+Recreza,23,19:00,KFUM Oslo - Molde,2,30.00,2.04,,1 : 1,loss
+Recreza,24,01:00,Athletic Club - Ferroviaria,1,30.00,1.84,,3 : 0,win
+rbb7050,12,22:30,Ind. Juniors - Manta,2,30.00,6.89,,1 : 2,win
+rbb7050,12,23:30,Sp. Luqueno - 2 de Mayo,2,30.00,3.28,,2 : 3,win
+rbb7050,13,15:45,Royal Vision - Ngozi City,2,30.00,2.55,,1 : 1,loss
+rbb7050,13,23:45,Metropolitanos - Portuguesa,2,30.00,3.89,,2 : 1,loss
+rbb7050,14,15:00,Tiller - Nardo,1,30.00,4.37,,2 : 1,win
+rbb7050,14,14:00,Sandviken - Bjarg,2,30.00,2.47,,2 : 1,loss
+rbb7050,15,23:30,Maringa FC - Anapolis,2,30.00,5.28,,0 : 1,win
+rbb7050,15,23:30,Chapecoense-SC - Ceara,1,30.00,3.30,,2 : 1,win
+rbb7050,16,23:00,Inter Palmira - Quindio,2,30.00,3.16,,1 : 0,loss
+Niki4,6,20:45,Slovenia - Austria,x,30.00,3.32,,1 : 1,win
+Niki4,6,20:45,Kosovo - Romania,2,30.00,3.03,,0 : 3,win
+Niki4,7,21:00,Cordoba - Malaga,x,30.00,3.16,,0 : 0,win
+Niki4,7,18:00,Georgia - Czech Republic,x,30.00,3.35,,4 : 1,loss
+Niki4,8,20:45,Giugliano - Cavese,x,30.00,3.25,,0 : 0,win
+Niki4,8,21:15,Entella - Ascoli,x,30.00,3.05,,2 : 1,loss
+Niki4,9,20:45,Montenegro - Wales,x,30.00,3.16,,1 : 2,loss
+Niki4,9,21:00,Albacete - Eibar,x,30.00,3.14,,0 : 1,loss
+Niki4,10,20:45,Netherlands - Germany,x,30.00,3.40,,2 : 2,win
+Niki4,10,20:45,Ireland - Greece,2,30.00,2.60,,0 : 2,win
+Niki4,11,23:00,Cucuta - Llaneros,2,30.00,2.51,,0 : 1,win
+Niki4,11,23:00,Deportivo Mixco - Xelaju,2,30.00,3.59,,1 : 0,loss
+Niki4,12,17:30,TPS - JIPPO,x,30.00,3.59,,0 : 1,loss
+Niki4,12,17:30,JaPS 2 - MyPa,x,30.00,3.98,,0 : 1,loss
+Niki4,13,20:30,Cesena - Modena,x,30.00,3.05,,2 : 2,win
+Niki4,13,20:30,Cesena - Modena / Italy Serie B,1:1,30.00,6.00,,2 : 2,undefined
+Niki4,14,19:30,BW Linz - LASK,1,30.00,3.22,,1 : 0,win
+Niki4,14,14:00,Mallorca - Villarreal,2,30.00,2.86,,1 : 2,win
+Niki4,15,12:30,Genoa - AS Roma,x,30.00,3.23,,1 : 1,win
+Niki4,15,17:00,Nantes - Reims,2,30.00,2.97,,1 : 2,win
+Niki4,16,21:15,Estrela - Boavista,x,30.00,3.26,,2 : 2,win
+Niki4,16,18:30,Parma - Udinese,x,30.00,3.30,,2 : 3,loss
+Niki4,17,18:45,Young Boys - Aston Villa,x,30.00,4.13,,0 : 3,loss
+Niki4,17,20:30,Mansfield - Bradford City,x,30.00,3.62,,0 : 3,loss
+Niki4,18,16:30,Varnsdorf - Chrudim,2,30.00,2.97,,0 : 3,win
+Niki4,18,12:00,Nagoya Grampus - Albirex Niigata,x,30.00,3.18,,3 : 0,loss
+Niki4,19,14:00,Van - Noah,1,30.00,4.54,,1 : 1,loss
+Niki4,19,18:45,Crvena zvezda - Benfica,x,30.00,3.68,,1 : 2,loss
+Niki4,20,18:30,Cagliari - Empoli,2,30.00,3.44,,0 : 2,win
+Niki4,20,20:45,Verona - Torino,2,30.00,2.68,,2 : 3,win
+Niki4,21,13:00,Dusseldorf - FC Koln,1,30.00,2.75,,2 : 2,loss
+Niki4,21,16:00,Southampton - Ipswich,2,30.00,3.16,,1 : 1,loss
+Niki4,22,15:00,Monza - Bologna,x,30.00,2.98,,1 : 2,loss
+Niki4,22,23:00,Platense Municipal - Alianza FC,x,30.00,3.44,,0 : 2,loss
+Niki4,23,03:00,Guanacasteca - Sporting San Jose,x,30.00,3.31,,2 : 1,loss
+Niki4,23,03:30,Marathon - Olancho,x,30.00,3.02,,2 : 0,loss
+Niki4,24,00:30,Boca Juniors - Real Santander,x,30.00,3.15,,4 : 3,loss
+Niki4,24,01:00,Athletic Club - Ferroviaria,x,30.00,3.07,,3 : 0,loss
+Niki4,25,09:00,Persipal BU - Gresik,x,30.00,3.05,,Soccer,undefined
+Niki4,25,20:30,Górnik Zabrze - Radomiak Radom,x,30.00,3.30,,Soccer,undefined
+Kolba1,1,18:15,Hebar - Beroe,1,30.00,4.59,,3 : 1,win
+Kolba1,1,20:45,Rijeka - Dinamo Zagreb /Croatia HNL,2/+bts,30.00,3.60,,1 : 1,undefined
+Kolba1,2,09:00,Fiji - Solomon Islands /Friendly International,1-1,30.00,6.70,,1 : 0,undefined
+Kolba1,3,"14,00",Wigan Athletic U21 - Brentford U21,"1 / +3,5",30.00,7.00,,1 : 1,undefined
+Kolba1,3,20:00,Lincoln - Chesterfield,x,30.00,3.98,,0 : 1,loss
+Kolba1,4,17:00,Benesov - Pisek,1,30.00,3.66,,1 : 3,loss
+Kolba1,4,"19,15",Jack Draper - Alex de Minaur /ATP US Open (hard),1-3,30.00,4.75,,3 : 0,undefined
+Kolba1,5,17:00,Goczalkowice Zdroj - Legnica II,x,30.00,4.08,,1 : 1,win
+Kolba1,5,"20,45",Szkocja - Polska /UEFA Nations League,1/+bts,30.00,6.00,,2 : 3,undefined
+Kolba1,6,"18,00",DR Kongo - Gwinea /Africa Cup of Nations,1/+bts,30.00,5.60,,1 : 0,undefined
+Kolba1,6,20:45,UC Dublin - Cork City,1,30.00,3.55,,0 : 1,loss
+Kolba1,7,14.00,Stuttgarter Kickers - Steinbach Haiger,"1/+3,5",30.00,5.25,,5 : 1,undefined
+Kolba1,7,18:00,Mauritania - Botswana,x,30.00,3.03,,1 : 0,loss
+Kolba1,8,"12,00",Levante - Athletic Bilbao /Spain / Liga F Women,1/+bts,30.00,4.60,,0 : 1,undefined
+Kolba1,8,14:00,Eintracht Trier - Offenbach,x,30.00,3.85,,0 : 3,loss
+Kolba1,9,"20,45",Norwegia - Austria /UEFA Nations League,2 / bts,30.00,5.50,,2 : 1,undefined
+Kolba1,9,20:45,Montenegro - Wales,x,30.00,3.11,,1 : 2,loss
+Kolba1,10,16.00,Kyrgyzstan - Uzbekistan /World Championship 2026,2 / bts,30.00,4.10,,2 : 3,undefined
+Kolba1,10,20:00,Kuwait - Iraq,x,30.00,3.81,,0 : 0,win
+Kolba1,11,19:00,Fernwald - Waldgirmes,2,30.00,3.97,,1 : 2,win
+Kolba1,11,"19,00",Altglienicke - Jena /Germany Regionalliga Nordost,x / +bts,30.00,4.20,,4 : 2,undefined
+Kolba1,12,21:00,Harrogate - Doncaster,1,30.00,4.18,,2 : 0,win
+Kolba1,12,"18,00",Din. Minsk - FC Gomel /Belarus,2-1,30.00,7.00,,2 : 0,undefined
+Kolba1,13,12:00,Vissel Kobe - Cerezo Osaka,2,30.00,4.74,,2 : 1,loss
+Kolba1,13,17:30,Araz - Kapaz,2,30.00,6.03,,1 : 0,loss
+Kolba1,14,14:45,Lechia Gdańsk - Radomiak Radom / Poland Ekstraklasa,2/+bts,30.00,5.00,,1 : 0,undefined
+Kolba1,14,18:15,Kortrijk - Club Brugge KV,1,30.00,6.08,,0 : 3,loss
+Kolba1,15,15:30,Augsburg - St.Pauli / Germany Bundesliga,1/+bts,30.00,4.00,,3 : 1,undefined
+Kolba1,15,17:00,Toulouse - Le Havre,2,30.00,4.35,,2 : 0,loss
+Kolba1,16,18:00,Hoffenheim W - Freiburg W,2,30.00,5.21,,2 : 3,win
+Kolba1,16,"19,00",Mjondalen - Bryne /Norway OBOS-ligaen,1 / +bts,30.00,6.50,,1 : 1,undefined
+Kolba1,17,"16,00",Rekord Bielsko-Biała - Hutnik Kraków /Poland Division 2,2 / +bts,30.00,5.25,,0 : 1,undefined
+Kolba1,17,18:45,Young Boys - Aston Villa,x,30.00,4.13,,0 : 3,loss
+Kolba1,18,"19,30",Lausanne Sport - Lugano /Switzerland,2 / +bts,30.00,5.75,,1 : 2,undefined
+Kolba1,18,21:00,Celtic - Slovan Bratislava,x,30.00,5.66,,4 : 1,loss
+Kolba1,19,18:30,Narvik - Valerenga,1,30.00,6.87,,2 : 6,loss
+Kolba1,19,19:00,Leganes - Athletic Bilbao /Spain LaLiga,2 / bts,30.00,6.00,,0 : 2,undefined
+Kolba1,20,19:00,Mainz II - Offenbach,1,30.00,4.46,,4 : 2,win
+Kolba1,20,18:00,Lafnitz - Kapfenberg / Austria 2 Liga,1/+bts,30.00,4.25,,1 : 2,undefined
+Kolba1,21,14:00,Ingolstadt - RW Essen,x,30.00,3.74,,2 : 2,win
+Kolba1,21,18:00,Grasshopper - Servette / Switzerland Super League,"2/+3,5",30.00,4.70,,2 : 2,undefined
+Kolba1,22,12:15,Heerenveen - Groningen / Netherlands Eredivisie,x/+bts,30.00,4.30,,2 : 1,undefined
+Kolba1,22,16:00,KV Mechelen - Cercle Brugge KSV,x,30.00,3.66,,2 : 0,loss
+Kolba1,23,"19,00",KFUM Oslo - Molde /no  Norwegia,x/+bts,30.00,4.20,,1 : 1,undefined
+Kolba1,23,19:00,Partizan - Crvena zvezda,x,30.00,3.94,,0 : 4,loss
+Kolba1,24,17:30,Elana Torun - Widzew Lodz,x,30.00,6.05,,1 : 3,loss
+Kolba1,24,"19,00",Rogle - Frolunda /Szwecja SHL,"x/+4,5",30.00,7.00,,4 : 3,undefined
+Kolba1,25,17:00,Auda - FK Liepaja,2,30.00,4.08,,Soccer,undefined
+Kolba1,25,"21,00",Midtjylland - TSG Hoffenheim /Liga Europy,2/+bts,30.00,4.10,,Soccer,undefined
+blacho4,1,10:30,Zilina B - Zvolen,1,30.00,1.64,,0 : 0,loss
+blacho4,2,20:45,Ascoli - Pianese,1,30.00,1.59,,1 : 0,win
+blacho4,2,20:00,San Miguel - Patronato,1,30.00,1.68,,2 : 4,loss
+blacho4,3,02:10,Atletico Atlanta - Brown Adrogue,1,30.00,1.70,,1 : 0,win
+blacho4,3,17:00,Csikszereda M. Ciuc - Metalul Buzau,1,30.00,1.50,,4 : 2,win
+blacho4,4,12:00,Yokohama F. Marinos - Hokkaido Consadole Sapporo,1,30.00,1.62,,6 : 1,win
+blacho4,4,02:30,Guarani - Coritiba,x,30.00,2.89,,2 : 1,loss
+blacho4,5,20:45,Portugal - Croatia,1,30.00,1.62,,2 : 1,win
+blacho4,5,20:00,Jordan - Kuwait,1,30.00,1.54,,1 : 1,loss
+blacho4,6,20:45,Bohemians - Shelbourne,x,30.00,3.15,,1 : 1,win
+blacho4,6,20:45,France - Italy,1,30.00,1.67,,1 : 3,loss
+blacho4,7,16:00,Ashton Utd - Morpeth,1,30.00,1.58,,0 : 1,loss
+blacho4,7,19:29,Ostrowiec Swietokrzyski - Swidniczanka Swidnik,1,30.00,1.61,,1 : 1,loss
+blacho4,8,20:45,Croatia - Poland,1,30.00,1.74,,1 : 0,win
+blacho4,8,23:30,America MG - Guarani,1,30.00,1.59,,3 : 0,win
+blacho4,9,20:45,France - Belgium,1,30.00,1.70,,2 : 0,win
+blacho4,9,01:30,Cooper - Plaza Colonia,x,30.00,2.89,,0 : 2,loss
+blacho4,10,20:45,Netherlands - Germany,x,30.00,3.25,,2 : 2,win
+blacho4,10,22:30,Colombia - Argentina,x,30.00,3.10,,2 : 1,loss
+blacho4,11,11:30,Hume City - South Melbourne,x,30.00,3.45,,2 : 2,win
+blacho4,11,00:00,Venezuela - Uruguay,x,30.00,3.00,,0 : 0,win
+blacho4,12,02:00,Cerro Porteno - Sportivo Trinidense,1,30.00,1.52,,1 : 1,loss
+blacho4,12,23:30,Sp. Luqueno - 2 de Mayo,x,30.00,2.92,,2 : 3,loss
+blacho4,13,20:45,Portadown - Dungannon,x,30.00,3.45,,2 : 1,loss
+blacho4,13,23:30,Central Cordoba - Instituto,x,30.00,3.00,,2 : 1,loss
+blacho4,14,23:30,Athletico-PR - Fortaleza,x,30.00,3.22,,1 : 1,win
+blacho4,14,22:30,O'Higgins - Coquimbo,x,30.00,3.18,,1 : 1,win
+blacho4,15,02:00,Diriangen - Esteli,x,30.00,3.58,,1 : 0,loss
+blacho4,15,02:00,Colorado Springs - Charleston,x,30.00,3.46,,2 : 0,loss
+blacho4,16,19:10,Hammarby - Norrkoping,x,30.00,4.07,,1 : 1,win
+blacho4,16,20:45,Lucchese - Rimini,x,30.00,3.18,,2 : 2,win
+blacho4,17,16:00,Goa - Jamshedpur,x,30.00,4.44,,1 : 2,loss
+blacho4,17,19:00,Zenit - Rubin Kazan,x,30.00,4.90,,2 : 0,loss
+blacho4,18,18:45,Bologna - Shakhtar Donetsk,x,30.00,3.55,,0 : 0,win
+blacho4,18,18:45,Sparta Prague - Salzburg,x,30.00,3.56,,3 : 0,loss
+blacho4,19,21:00,Atalanta - Arsenal,x,30.00,3.74,,0 : 0,win
+blacho4,19,00:30,Vila Nova FC - Chapecoense-SC,x,30.00,3.13,,3 : 2,loss
+blacho4,20,20:45,Motherwell - Dundee Utd,x,30.00,3.60,,2 : 1,loss
+blacho4,20,21:00,Alaves - Sevilla,x,30.00,3.18,,2 : 1,loss
+blacho4,21,14:30,Metz - Lorient,x,30.00,3.23,,1 : 1,win
+blacho4,21,21:00,Racing Montevideo - Progreso,x,30.00,3.15,,1 : 0,loss
+blacho4,22,23:30,Criciuma - Athletico-PR,x,30.00,3.18,,0 : 0,win
+blacho4,22,22:30,Bogota - Real Cundinamarca,x,30.00,3.17,,2 : 2,win
+blacho4,23,20:45,Shamrock Rovers - Bohemians,x,30.00,3.37,,1 : 0,loss
+blacho4,23,23:45,Sarmiento Junin - Central Cordoba,x,30.00,2.85,,1 : 3,loss
+blacho4,24,12:30,Seoul E-Land - Anyang,x,30.00,3.21,,1 : 0,loss
+blacho4,24,12:30,Ansan Greeners - Cheongju,x,30.00,3.09,,3 : 2,loss
+blacho4,25,09:00,Persipal BU - Gresik,x,30.00,3.05,,Soccer,undefined
+blacho4,25,10:00,Persikota Tangerang - PSPS Riau,x,30.00,2.95,,Soccer,undefined
+blacho4,26,15:00,Cerrito - Colon,x,30.00,2.78,,Soccer,undefined
+blacho4,26,17:00,Siauliai FA - FK Panevezys,x,30.00,2.98,,Soccer,undefined
+0758204499,2,16:00,Steaua Bucuresti - U Craiova 1948,2,30.00,2.30,,0 : 0,loss
+0758204499,2,18:00,Hapoel Kfar Saba - Maccabi Jaffa,2,30.00,2.46,,2 : 1,loss
+0758204499,3,18:30,Horsholm-Usserod - Avarta,2,30.00,2.06,,1 : 2,win
+0758204499,3,15:00,Hull U21 - QPR U21,2,30.00,2.21,,3 : 1,loss
+0758204499,4,19:00,Horsens - Viborg,2,30.00,2.10,,0 : 4,win
+0758204499,4,17:00,Comoros - Gambia,2,30.00,2.50,,1 : 1,loss
+0758204499,5,15:00,Malawi - Burundi,2,30.00,4.11,,2 : 3,win
+0758204499,5,17:45,Hungary U21 - Slovakia U21,1,30.00,2.37,,1 : 2,loss
+0758204499,6,15:00,Kenya - Zimbabwe,1,30.00,1.92,,0 : 0,loss
+0758204499,6,17:00,Unia Swarzedz - Cartusia Kartuzy,2,30.00,3.60,,1 : 0,loss
+0758204499,7,17:00,Bermuda - Dominican Republic,1,30.00,2.90,,2 : 3,loss
+0758204499,9,19:30,Vasalund - Hammarby TFF,1,30.00,2.28,,3 : 0,win
+0758204499,9,16:30,Entella - Ascoli,2,30.00,2.89,,2 : 1,loss
+0758204499,10,17:00,Brabrand - Thisted FC,1,30.00,2.68,,3 : 0,win
+0758204499,10,15:00,Mozambique - Guinea Bissau,2,30.00,3.85,,2 : 1,loss
+0758204499,11,16:00,Bylis - KF Tirana,2,30.00,2.48,,2 : 2,loss
+0758204499,11,19:00,Vllaznia - Egnatia,2,30.00,2.43,,3 : 1,loss
+0758204499,13,17:00,Nsoatreman (Gha) - Constantine (Alg),2,30.00,2.45,,0 : 2,win
+0758204499,13,15:00,BKMA - Van,1,30.00,3.35,,0 : 1,loss
+0758204499,14,15:00,Red Arrows (Zam) - Mazembe (Drc),2,30.00,2.64,,0 : 2,win
+0758204499,14,17:00,Wolfsberger AC - SK Rapid,2,30.00,2.09,,1 : 1,loss
+0758204499,15,15:00,Tottenham - Arsenal,2,30.00,2.32,,0 : 1,win
+0758204499,16,17:30,Lazio U20 - AS Roma U20,2,30.00,2.00,,1 : 2,win
+0758204499,16,15:00,Sheffield Wed U21 - Charlton U21,1,30.00,2.25,,0 : 5,loss
+0758204499,17,15:00,Coastal Union - Namungo,2,30.00,3.74,,0 : 2,win
+0758204499,17,17:30,Sanat Naft - Mes Kerman,1,30.00,2.07,,3 : 0,win
+0758204499,18,15:00,Cairese - Asti,1,30.00,2.61,,3 : 1,win
+0758204499,18,17:00,Notec Czarnkow - Lech Poznan II,1,30.00,2.16,,2 : 0,win
+0758204499,19,15:00,Monaco U19 - Barcelona U19,1,30.00,3.79,,4 : 3,win
+0758204499,19,17:00,Levadia U21 - Tartu Welco,2,30.00,2.20,,1 : 0,loss
+0758204499,20,17:00,Haka - SJK,2,30.00,2.03,,0 : 3,win
+0758204499,20,15:00,Al Sahel - Al Hikma,1,30.00,2.31,,0 : 2,loss
+0758204499,21,15:00,Reichenau - Dornbirn,2,30.00,2.62,,0 : 2,win
+0758204499,21,17:00,Paradou - ASO Chlef,1,30.00,2.38,,2 : 0,win
+0758204499,22,17:00,Brest - Toulouse,1,30.00,2.10,,2 : 0,win
+0758204499,22,15:00,Bijelo Brdo - Jarun,1,30.00,3.02,,0 : 2,loss
+0758204499,23,15:00,Ararat Yerevan - Van,2,30.00,3.10,,0 : 3,win
+0758204499,23,17:00,Shirak Gyumri - Alashkert,1,30.00,3.16,,0 : 0,loss
+0758204499,24,15:00,Police - Bright Stars,1,30.00,2.23,,1 : 1,loss
+0758204499,24,17:00,AC Oulu - Inter Turku,2,30.00,2.35,,1 : 0,loss
+0758204499,25,15:00,Ethiopian Insurance - Arba Menche,1,30.00,2.46,,Soccer,undefined
+0758204499,25,17:00,Ikorodu City - Enugu Rangers,1,30.00,2.45,,Soccer,undefined
+michuulol,1,14:00,Malmo FF - Djurgarden,1,30.00,1.53,,4 : 0,win
+michuulol,1,14:45,Legia Warszawa - Motor Lublin /Ekstraklasa,1,30.00,1.50,,5 : 2,win
+michuulol,3,10:00,Bergevi F./Veldheer M. - Karol M./Sachko V.,1,30.00,1.56,,0 : 2,loss
+michuulol,3,20:00,Carlisle - Nottingham U21,1,30.00,1.53,,1 : 2,loss
+michuulol,11,23:00,Harrison C./Harrison R. - Shelbayh A./Stevenson K.,1,30.00,1.50,,1 : 2,loss
+michuulol,12,02:00,Corinthians - Juventude,1,30.00,1.53,,3 : 1,win
+michuulol,12,03:00,Colombia U20 W - South Korea U20 W,1,30.00,1.53,,1 : 0,win
+michuulol,14,11:00,AC Milan U20 - Empoli U20,1,30.00,1.54,,4 : 1,win
+michuulol,14,13:00,AFA Olaine - Rezekne,1,30.00,1.52,,5 : 0,win
+michuulol,15,12:00,Geylang - Albirex Niigata,1,30.00,1.54,,5 : 1,win
+michuulol,15,15:00,Rudes - Bijelo Brdo,1,30.00,1.52,,1 : 0,win
+michuulol,16,21:15,Valur - KR Reykjavik,1,30.00,1.55,,4 : 1,win
+michuulol,16,23:00,Atl. Tembetary - Pastoreo,1,30.00,1.55,,2 : 0,win
+michuulol,17,20:45,Slough - Chichester,1,30.00,1.50,,2 : 1,win
+michuulol,17,20:45,Guiseley - Morpeth,1,30.00,1.51,,3 : 3,loss
+michuulol,19,18:00,Hapoel Petah Tikva - M. Herzliya,1,30.00,1.52,,1 : 0,win
+michuulol,21,13:00,Aston Villa U21 - Blackburn U21,1,30.00,1.51,,2 : 1,win
+michuulol,21,12:00,Machida - Hokkaido Consadole Sapporo,1,30.00,1.54,,0 : 0,loss
+michuulol,22,15:00,Turkspor Augsburg - Heimstetten,1,30.00,1.50,,2 : 2,loss
+michuulol,22,16:00,KR Reykjavik - Vestri,1,30.00,1.50,,2 : 2,loss
+michuulol,24,19:00,Mainz II - Goppinger,1,30.00,1.54,,2 : 1,win
+rafiar,1,17:30,Numancia - Compostela,1,30.00,1.79,,2 : 0,win
+rafiar,1,16:30,Goteborg - Hammarby,1,30.00,2.59,,0 : 1,loss
+rafiar,2,17:00,Jacquemot E. - Teichmann J.,2,30.00,1.80,,1 : 2,win
+rafiar,2,17:00,Ramos A. - Blancaneaux G.,1,30.00,1.65,,2 : 0,win
+rafiar,5,01:35,Nashville Sounds - Gwinnett Stripers,1,30.00,1.74,,12 : 3,win
+rafiar,5,02:30,Sinner J. - Medvedev D.,2,30.00,3.19,,3 : 1,loss
+rafiar,6,18:30,Nancy - Villefranche,1,30.00,1.95,,2 : 0,win
+rafiar,6,18:00,Lithuania - Cyprus,1,30.00,2.35,,0 : 1,loss
+rafiar,8,20:45,Switzerland - Spain,2,30.00,1.80,,1 : 4,win
+rafiar,8,20:45,Croatia - Poland,x,30.00,3.79,,1 : 0,loss
+rafiar,10,16:00,Petrzalka - FK Humenne,1,30.00,1.78,,2 : 1,win
+rafiar,10,15:15,Dmitruk K. - Lukas T.,2,30.00,1.74,,2 : 1,loss
+rafiar,12,19:15,St.Louis Cardinals - Cincinnati Reds,1,30.00,1.53,,6 : 1,win
+rafiar,12,18:30,CSKA Moscow - Nizhny Novgorod,1,30.00,1.62,,3 : 3,loss
+rafiar,13,04:00,Kukushkin M. - Gomez F. A.,1,30.00,1.55,,2 : 0,win
+rafiar,13,04:00,Polmans M. - Nardi L.,2,30.00,1.50,,0 : 2,win
+rafiar,15,02:10,Arizona Diamondbacks - Milwaukee Brewers,1,30.00,1.66,,8 : 15,loss
+rafiar,16,18:00,Omonia - AEK Larnaca,1,30.00,2.09,,1 : 0,win
+rafiar,16,19:00,Dinamo Tirana - Skenderbeu,1,30.00,1.95,,2 : 1,win
+rafiar,17,01:10,New York Mets - Washington Nationals,1,30.00,1.53,,2 : 1,win
+rafiar,17,20:00,Anderlecht - Genk,1,30.00,2.15,,0 : 2,loss
+rafiar,18,16:30,Herbert P. - Bonzi B.,2,30.00,1.51,,0 : 2,win
+rafiar,18,17:30,Kauno Zalgiris - Banga,1,30.00,1.56,,0 : 1,loss
+rafiar,19,01:10,New York Mets - Washington Nationals,1,30.00,1.55,,10 : 0,win
+rafiar,19,00:40,Miami Marlins - Los Angeles Dodgers,2,30.00,1.52,,4 : 8,win
+rafiar,20,18:00,Zawisza - Cartusia Kartuzy,1,30.00,1.69,,4 : 1,win
+rafiar,20,09:00,Nesterov P. - Gentzsch T.,1,30.00,1.57,,1 : 2,loss
+rafiar,21,14:00,Pouille L. - Majchrzak K.,1,30.00,1.62,,2 : 0,win
+rafiar,21,14:00,Fram - Sola,1,30.00,1.54,,4 : 3,win
+rafiar,22,17:30,Rybakov A. - Saville L.,1,30.00,1.60,,2 : 0,win
+rafiar,22,11:00,Siegemund L. - Sramkova R.,1,30.00,1.72,,0 : 2,loss
+rafiar,23,05:00,Muller A. - Bellucci M.,2,30.00,1.53,,1 : 2,win
+rafiar,23,01:15,New York Mets - Philadelphia Phillies,2,30.00,1.64,,2 : 1,loss
+rafiar,24,23:30,Hu V./Miroshnichenko V. - Brace C./Corley P.,1,30.00,1.50,,1 : 2,loss
+rafiar,25,03:00,Kenin S. - Bogdan A.,1,30.00,1.68,,2 : 0,win
+rafiar,25,00:40,Detroit Tigers - Tampa Bay Rays,1,30.00,1.52,,Baseball,undefined
+GOVERNOR,1,14:30,Wright P. - van Veen G. / Darts European Tour 9,2,30.00,1.67,,6 : 4,loss
+GOVERNOR,3,10:00,Kopriva V. – Choinski J. / Tulln Challenger Men,1,30.00,1.60,,1 : 2,loss
+GOVERNOR,4,10:00,Shimanov O. - Tammaro M.,1,30.00,2.41,,2 : 0,win
+GOVERNOR,5,14:30,Ramos A. - Hemery C.,2,30.00,2.23,,0 : 2,win
+GOVERNOR,6,10:00,Rossi L. – Ribecai M. / ITF M15 Budapest 2 Men,1,30.00,1.81,,2 : 0,win
+GOVERNOR,7,15:00,Heta D. - van Duijvenbode D. / Darts European Tour 10,2,30.00,2.05,,5 : 6,win
+GOVERNOR,7,21:00,Arango E. - Shibahara E.,1,30.00,1.88,,0 : 2,loss
+GOVERNOR,8,18:00,Ferencvaros - Bjerringbro/Silkeborg,1,30.00,3.79,,34 : 32,win
+GOVERNOR,8,14:00,Bunting S. - Wright P. / Darts European Tour 10,1,30.00,1.69,,5 : 6,loss
+GOVERNOR,10,14:30,Kopriva V. - Moreno De Alboran N.,1,30.00,1.73,,2 : 1,win
+GOVERNOR,11,21:30,Danilina A./Khromacheva I. - Piter K./Stollar F.,1,30.00,1.90,,2 : 0,win
+GOVERNOR,12,20:45,Fuchse Berlin - Veszprem,2,30.00,2.11,,31 : 32,win
+GOVERNOR,16,19:00,Kazincbarcikai - DVTK,2,30.00,1.87,,2 : 4,win
+GOVERNOR,17,05:00,Kudermetova P. - Hon P. / WTA Seoul,1,30.00,2.11,,2 : 0,win
+GOVERNOR,17,10:30,Olivieri G. A. - Gakhov I.,2,30.00,2.02,,2 : 1,loss
+GOVERNOR,18,14:25,Krcmar B. – Scutt C. / Darts Players Championship 21,2,30.00,1.85,,3 : 6,win
+GOVERNOR,18,18:45,Wisla Plock - Din. Bucuresti,1,30.00,1.96,,26 : 28,loss
+GOVERNOR,19,10:00,Ramos A. - Taberner C.,1,30.00,1.83,,1 : 2,loss
+GOVERNOR,19,17:00,Estevez J. - Kicker N.,1,30.00,2.91,,0 : 2,loss
+GOVERNOR,22,19:00,Spizzirri E. - Dostanic S.,2,30.00,2.59,,1 : 2,win
+GOVERNOR,22,19:00,Maloney P. - Escobedo E.,2,30.00,1.65,,0 : 2,win
+GOVERNOR,25,12:00,Mochizuki S. - Humbert U. / ATP Tokyo,1,30.00,4.70,,0 : 2,loss
+Maczan88,3,10:00,Travaglia S. - Vincent Ruggeri S.,1,30.00,1.51,,2 : 0,win
+Maczan88,3,10:00,Mager G. - Klizan M.,1,30.00,1.85,,0 : 2,loss
+Maczan88,4,03:00,Ku Y. - Pavlova K.,1,30.00,1.53,,1 : 2,loss
+Maczan88,5,20:45,Portugal - Croatia,1,30.00,1.53,,2 : 1,win
+Maczan88,5,20:45,Estonia - Slovakia,2,30.00,1.50,,0 : 1,win
+Maczan88,7,03:00,Santiago - Caja Oblatos,1,30.00,1.52,,3 : 0,win
+Maczan88,7,11:00,Ryukyu - Grulla Morioka,1,30.00,1.56,,1 : 2,loss
+Maczan88,8,18:00,Maria T. - Rakhimova K.,2,30.00,1.72,,1 : 2,win
+Maczan88,8,19:00,Jones B. - Bouquet L.,1,30.00,1.59,,2 : 0,win
+Maczan88,9,20:45,Turkey - Iceland,1,30.00,1.59,,3 : 1,win
+Maczan88,9,13:30,Jorge F. - Amariei I. D.,1,30.00,1.51,,2 : 0,win
+Maczan88,10,10:30,France U19 - Poland U19,1,30.00,1.56,,2 : 1,win
+Maczan88,10,04:00,Kingsley C. - Tracy J.,1,30.00,1.53,,2 : 1,win
+Maczan88,11,12:00,Nagano - Omiya Ardija,2,30.00,1.78,,0 : 0,loss
+Maczan88,11,18:30,Parry D. - Starodubtseva Y.,1,30.00,1.68,,0 : 2,loss
+Maczan88,12,13:00,Massacri B. - Mazzola F.,1,30.00,1.67,,2 : 0,win
+Maczan88,12,13:00,Vedder E. - Nahimana S.,1,30.00,1.60,,2 : 0,win
+Maczan88,13,12:00,Yokohama F. Marinos - Kyoto,1,30.00,1.69,,1 : 2,loss
+Maczan88,13,16:10,Mannarino A.- Fearnley J. / France Rennes Challenger Men,1,30.00,2.25,,0 : 2,loss
+Maczan88,14,21:00,Real Sociedad - Real Madrid,2,30.00,1.69,,0 : 2,win
+Maczan88,14,05:00,Shimabukuro S. - Nardi L.,2,30.00,1.65,,2 : 0,loss
+Maczan88,16,11:30,Carboni L. - Bosio G.,1,30.00,1.57,,2 : 0,win
+Maczan88,16,11:30,Brunold M. - Sorger S.,1,30.00,1.50,,2 : 1,win
+Maczan88,17,18:45,Juventus - PSV,1,30.00,1.84,,3 : 1,win
+Maczan88,17,19:00,Wurzburger Kickers - Nurnberg II,1,30.00,1.50,,2 : 2,loss
+Maczan88,18,21:00,Club Brugge KV - Dortmund,2,30.00,2.00,,0 : 1,win
+Maczan88,18,18:45,Sparta Prague - Salzburg,2,30.00,2.86,,3 : 0,loss
+Maczan88,19,18:45,Feyenoord - Bayer Leverkusen,2,30.00,1.67,,0 : 4,win
+Maczan88,19,04:00,Diablos Rojos - Panteras,1,30.00,1.51,,95 : 69,win
+Maczan88,20,04:00,Abejas - Lobos Plateados,1,30.00,1.68,,92 : 97,loss
+Maczan88,20,18:30,Schalke - Darmstadt,1,30.00,1.73,,3 : 5,loss
+Maczan88,21,14:00,SG Dynamo Dresden - Hansa Rostock,1,30.00,1.65,,1 : 1,loss
+Maczan88,21,21:00,Nijmegen - Heracles,1,30.00,1.55,,1 : 2,loss
+Maczan88,22,17:30,Rybakov A. - Saville L.,1,30.00,1.57,,2 : 0,win
+Maczan88,22,17:00,Lusitania FC - Vizela,2,30.00,1.62,,4 : 3,loss
+Maczan88,24,19:00,Sevilla - Valladolid,1,30.00,1.71,,2 : 1,win
+Maczan88,24,18:00,Wisla Plock - Warta Poznan,1,30.00,1.54,,0 : 1,loss
+Maczan88,25,12:30,Vlckova K. - Kuzmova K.,2,30.00,1.55,,Tennis,undefined
+Maczan88,25,13:00,Serban R. - Dencheva R.,1,30.00,1.61,,Tennis,undefined
+Giper13,1,17:00,Reims - Rennes,1,30.00,2.90,,2 : 1,win
+Giper13,1,18:30,Genoa - Verona,1,30.00,2.03,,0 : 2,loss
+Giper13,2,21:15,Catania - Benevento,1,30.00,2.75,,1 : 0,win
+Giper13,2,20:30,U. Cluj - Din. Bucuresti,1,30.00,1.80,,1 : 0,win
+Giper13,3,20:00,Doncaster - Huddersfield,1,30.00,2.84,,2 : 1,win
+Giper13,3,20:00,Newport - Cheltenham,1,30.00,2.40,,1 : 2,loss
+Giper13,4,19:00,Horsens - Viborg,2,30.00,2.10,,0 : 4,win
+Giper13,4,18:00,Libya - Rwanda,1,30.00,1.87,,1 : 1,loss
+Giper13,5,20:45,Scotland - Poland,2,30.00,3.16,,2 : 3,win
+Giper13,5,20:45,Denmark - Switzerland,1,30.00,2.34,,2 : 0,win
+Giper13,6,20:45,Iceland - Montenegro,1,30.00,2.13,,2 : 0,win
+Giper13,6,18:00,Turkey U20 - England U20,2,30.00,1.90,,1 : 1,loss
+Giper13,7,18:00,Georgia - Czech Republic,1,30.00,3.17,,4 : 1,win
+Giper13,7,18:00,Ireland - England,2,30.00,1.51,,0 : 2,win
+Giper13,8,18:00,Denmark - Serbia,1,30.00,1.82,,2 : 0,win
+Giper13,8,20:45,Switzerland - Spain,2,30.00,1.80,,1 : 4,win
+Giper13,9,20:45,France - Belgium,1,30.00,1.84,,2 : 0,win
+Giper13,9,20:45,Turkey - Iceland,1,30.00,1.58,,3 : 1,win
+Giper13,10,20:45,North Macedonia - Armenia,1,30.00,1.94,,2 : 0,win
+Giper13,10,18:00,Zimbabwe - Cameroon,2,30.00,1.76,,0 : 0,loss
+Giper13,11,02:30,Paraguay - Brazil,2,30.00,1.52,,1 : 0,loss
+Giper13,11,04:00,Herediano - San Carlos,1,30.00,1.86,,1 : 2,loss
+Giper13,12,11:30,Adelaide United - WS Wanderers,2,30.00,2.36,,1 : 1,loss
+Giper13,12,22:30,Ind. Juniors - Manta,1,30.00,1.50,,1 : 2,loss
+Giper13,13,22:30,Guayaquil City - Gualaceo,1,30.00,1.53,,3 : 1,win
+Giper13,13,23:00,Patriotas - Bucaramanga,1,30.00,2.46,,1 : 2,loss
+Giper13,14,13:30,Southampton - Manchester Utd,2,30.00,1.69,,0 : 3,win
+Giper13,14,15:30,B. Monchengladbach - Stuttgart,1,30.00,2.69,,1 : 3,loss
+Giper13,15,15:00,Rennes vs Montpellier / France Ligue 1,1,30.00,1.51,,3 : 0,win
+Giper13,15,17:00,Nantes - Reims,1,30.00,2.41,,1 : 2,loss
+Giper13,16,15:40,Al Nasr - Al-Rustaq,1,30.00,2.54,,2 : 1,win
+Giper13,16,21:00,Rayo Vallecano - Osasuna,1,30.00,2.07,,3 : 1,win
+Giper13,17,18:45,Young Boys - Aston Villa,x,30.00,4.19,,0 : 3,loss
+Giper13,17,18:45,Juventus - PSV /Champions League,X2,30.00,2.06,,3 : 1,undefined
+Giper13,18,21:00,Manchester City - Inter,x,30.00,4.40,,0 : 0,win
+Giper13,18,21:00,PSG - Girona,x,30.00,5.39,,1 : 0,loss
+Giper13,19,23:00,Fuerte San Francisco - Alianza FC,2,30.00,1.63,,0 : 2,win
+Giper13,19,22:00,U. Catolica - Tecnico U.,1,30.00,1.57,,2 : 2,loss
+Giper13,20,21:00,Alaves - Sevilla,2,30.00,3.56,,2 : 1,loss
+Giper13,21,20:30,Basel - Zurich,x,30.00,3.51,,0 : 2,loss
+Giper13,21,20:45,Anderlecht - Charleroi,1,30.00,2.22,,0 : 0,loss
+Giper13,22,15:00,Bijelo Brdo - Jarun,x,30.00,3.27,,0 : 2,loss
+Giper13,22,17:00,Brest - Toulouse,x,30.00,3.48,,2 : 0,loss
+Giper13,23,03:30,Junior - Aguilas,2,30.00,3.93,,3 : 4,win
+Giper13,23,03:30,Marathon - Olancho,x,30.00,3.02,,2 : 0,loss
+Koshin,20,20:45,St. Liege - Royale Union SG,x,30.00,3.47,,0 : 0,win
+Koshin,20,18:30,Cagliari - Empoli,2,30.00,3.32,,0 : 2,win
+Koshin,21,16:00,Tottenham - Brentford,x,30.00,4.55,,3 : 1,loss
+Koshin,22,14:00,Zhejiang Professional - Cangzhou,x,30.00,5.06,,2 : 2,win
+Koshin,22,03:00,Monterrey - Mazatlan FC,x,30.00,4.26,,0 : 0,win
+Koshin,23,19:00,Goztepe - Kayserispor,x,30.00,3.67,,3 : 0,loss
+Koshin,23,20:00,Unirea Slobozia - FC Rapid Bucuresti,x,30.00,3.41,,1 : 2,loss
+Koshin,24,20:30,St. Gallen - Zurich,2,30.00,3.14,,4 : 1,loss
+Koshin,24,20:45,Leyton Orient - Peterborough,2,30.00,2.47,,2 : 2,loss
+Koshin,25,19:00,Djurgarden - Brommapojkarna,x,30.00,3.88,,Soccer,undefined
+Koshin,26,02:30,Ind. Medellin (Col) - Lanus (Arg),x,30.00,3.03,,Soccer,undefined
+Volker,1,18:30,Fiorentina - Monza,x,30.00,3.78,,2 : 2,win
+Volker,2,20:45,Avellino - Giugliano,2,30.00,5.03,,1 : 1,loss
+Volker,2,21:30,Elche - Cordoba,x,30.00,3.11,,3 : 1,loss
+Volker,3,18:30,Vanlose - Roskilde,x,30.00,6.49,,1 : 1,win
+Volker,3,19:00,BK Frem - Lyngby,x,30.00,5.17,,4 : 1,loss
+Volker,4,18:00,Tanzania - Ethiopia,x,30.00,3.09,,0 : 0,win
+Volker,4,18:00,Libya - Rwanda,x,30.00,3.02,,1 : 1,win
+Volker,5,18:00,Azerbaijan - Sweden,1,30.00,5.88,,1 : 3,loss
+Volker,5,20:45,Scotland - Poland,x,30.00,3.13,,2 : 3,loss
+Volker,6,20:45,Kosovo - Romania,2,30.00,3.03,,0 : 3,win
+Volker,6,18:30,Aubagne - Versailles,x,30.00,3.01,,3 : 3,win
+Volker,7,18:00,Cameroon - Namibia,x,30.00,3.99,,1 : 0,loss
+Volker,7,21.00,Cordoba-Malaga/laliga2,Btts yes,30.00,2.20,,0 : 0,undefined
+Volker,8,15:00,Luksemburg-Białoruś /UEFA Nations League,X,30.00,3.15,,,undefined
+Volker,8,20:45,Croatia - Poland,x,30.00,3.79,,1 : 0,loss
+Volker,9,20:45,France - Belgium,x,30.00,3.63,,2 : 0,loss
+Volker,9,21:00,Castellon - Cadiz CF,x,30.00,3.23,,1 : 3,loss
+Volker,10,14:00,North Korea - Qatar,2,30.00,1.70,,2 : 2,loss
+Volker,11,16:00,Bylis - KF Tirana,x,30.00,3.12,,2 : 2,win
+Volker,11,15:00,Usakspor - 1922 Konyaspor,2,30.00,4.51,,4 : 0,loss
+Volker,12,20:00,Leones del Norte - Vargas Torres,x,30.00,2.57,,1 : 1,win
+Volker,12,19:00,AF Elbasani - Laci,x,30.00,3.20,,1 : 0,loss
+Volker,13,21:00,Hull - Sheffield United / England Championsship,CS 0:1,30.00,7.00,,0 : 2,undefined
+Volker,13,21:15,Faetano - Tre Penne,x,30.00,6.44,,0 : 4,loss
+Volker,14,16:00,Crystal Palace - Leicester  / England Premier League,1&btts yes,30.00,3.50,,2 : 2,undefined
+Volker,14,16:00,Liverpool - Nottingham,x,30.00,6.57,,0 : 1,loss
+Volker,15,16:15,Girona - Barcelona  / Spain La Liga,CS 1:2,30.00,7.00,,1 : 4,undefined
+Volker,15,18:30,Las Palmas - Ath Bilbao,x,30.00,3.34,,2 : 3,loss
+Volker,16,21:15,Estrela - Boavista,x,30.00,3.25,,2 : 2,win
+Volker,16,19:00,Tychy - Ruch Chorzow,x,30.00,3.29,,0 : 1,loss
+Volker,17,18:45,Young Boys - Aston Villa / Champions League,2 & btts,30.00,2.94,,0 : 3,undefined
+Volker,17,19:00,Mallorca - Real Sociedad,x,30.00,2.81,,1 : 0,loss
+Volker,18,18:45,Sparta Praga-Salzburg /Champions League,1 & bts,30.00,3.80,,3 : 0,undefined
+Volker,18,18:45,Bologna - Shakhtar Donetsk,2,30.00,4.09,,0 : 0,loss
+Volker,19,21:00,Brest - Sturm Graz /Champions League,1 & BTS,30.00,3.80,,2 : 1,undefined
+Volker,19,21:00,Monaco - Barcelona,2,30.00,1.69,,2 : 1,loss
+Volker,20,20:45,Verona - Torino  / Italy Serie A,"2 & under 2,5",30.00,5.10,,2 : 3,undefined
+Volker,20,21:00,Stoke - Hull,1,30.00,2.01,,1 : 3,loss
+Volker,21,20:45,Lecce - Parma,x,30.00,3.39,,2 : 2,win
+Volker,21,16:00,Southampton - Ipswich,2,30.00,3.21,,1 : 1,loss
+Volker,22,18:30,Villarreal-Barcelona / Spain La Liga,"Over 5,5 goals",30.00,5.80,,1 : 5,undefined
+Volker,22,15:00,Brighton - Nottingham,x,30.00,3.80,,2 : 2,win
+Volker,23,19:00,Gaziantep - Trabzonspor,x,30.00,3.36,,0 : 0,win
+Volker,23,19:00,Sanliurfaspor - Karagumruk,x,30.00,3.18,,1 : 3,loss
+Volker,24,17:00,Noah - Pyunik Yerevan,2,30.00,3.79,,2 : 0,loss
+Volker,24,21.00,Real Madryt-Alaves /Hiszpania LaLiga,X/1,30.00,4.09,,3 : 2,undefined
+Volker,25,21:00,Anderlecht - Ferencvaros,x,30.00,3.36,,Soccer,undefined
+Volker,25,21:00,Dynamo Kijów - Lazio,x,30.00,3.48,,Soccer,undefined
+DODONI,1,21:30,Gil Vicente - Braga,x,30.00,3.67,,0 : 0,win
+DODONI,1,18:15,Eyupspor - Trabzonspor,x,30.00,3.39,,0 : 0,win
+DODONI,2,20:45,Cavese - Crotone,x,30.00,3.29,,2 : 1,loss
+DODONI,2,20:45,Ascoli - Pianese,x,30.00,3.74,,1 : 0,loss
+DODONI,3,01:00,Londrina - Athletic Club,x,30.00,3.17,,2 : 3,loss
+DODONI,3,02:00,Cumbaya - Imbabura,x,30.00,3.09,,1 : 2,loss
+DODONI,4,12:00,Nagoya Grampus - Sanfrecce Hiroshima,x,30.00,3.38,,0 : 1,loss
+DODONI,4,12:00,Yokohama F. Marinos - Hokkaido Consadole Sapporo,x,30.00,4.25,,6 : 1,loss
+DODONI,5,20:45,Dundalk - St. Patricks,x,30.00,3.28,,1 : 2,loss
+DODONI,5,20:45,Scotland - Poland,x,30.00,3.17,,2 : 3,loss
+DODONI,6,18:30,Quevilly Rouen - Bourg en Bresse,x,30.00,3.23,,0 : 0,win
+DODONI,6,15:00,Bournemouth U21 - Barnsley U21,x,30.00,3.98,,4 : 3,loss
+DODONI,7,16:00,Charlton - Rotherham,x,30.00,3.23,,1 : 1,win
+DODONI,7,16:00,Stockton - Macclesfield,x,30.00,3.73,,0 : 1,loss
+DODONI,8,20:45,Giugliano - Cavese,x,30.00,3.31,,0 : 0,win
+DODONI,8,21:15,Entella - Ascoli,x,30.00,3.14,,2 : 1,loss
+DODONI,9,00:00,Alebrijes Oaxaca - Venados,x,30.00,3.55,,1 : 0,loss
+DODONI,9,21:00,Castellon - Cadiz CF,x,30.00,3.21,,1 : 3,loss
+DODONI,10,20:45,Hyde - Leek,x,30.00,3.95,,0 : 0,win
+DODONI,10,20:45,York City - Braintree,x,30.00,3.99,,2 : 1,loss
+DODONI,11,04:30,Sporting San Jose - AD Santos,x,30.00,4.08,,1 : 1,win
+DODONI,11,17:00,FK Frydek-Mistek - Hlubina,x,30.00,3.72,,0 : 0,win
+DODONI,12,00:00,Internacional - Fortaleza,x,30.00,3.16,,2 : 1,loss
+DODONI,12,19:00,U Craiova 1948 - Unirea Ungheni,x,30.00,3.83,,2 : 0,loss
+DODONI,13,18:00,Ried - ASK Voitsberg,x,30.00,4.83,,0 : 0,win
+DODONI,13,21:00,Betis - Leganes,x,30.00,3.51,,2 : 0,loss
+DODONI,14,13:30,Leeds - Burnley,x,30.00,3.80,,0 : 1,loss
+DODONI,14,20:00,NAC Breda - Sittard,x,30.00,3.47,,1 : 0,loss
+DODONI,15,20:00,CFR Cluj - FCSB,x,30.00,3.25,,2 : 2,win
+DODONI,15,19:00,OFK Beograd - Partizan,x,30.00,3.90,,3 : 2,loss
+DODONI,16,00:30,Barcelona SC - Macara,x,30.00,4.41,,2 : 1,loss
+DODONI,16,18:30,Parma - Udinese,x,30.00,3.32,,2 : 3,loss
+DODONI,17,20:45,Hebburn Town - Whitby,x,30.00,3.85,,2 : 6,loss
+DODONI,18,00:30,Real Cundinamarca - Cartagena,x,30.00,3.53,,2 : 1,loss
+DODONI,18,22:30,Comerciantes Unidos - Cesar Vallejo,x,30.00,3.19,,2 : 0,loss
+DODONI,19,19:00,Helsingborg - Oddevold,x,30.00,3.35,,0 : 0,win
+DODONI,19,00:00,Sport Recife - Goias,x,30.00,3.23,,1 : 1,win
+DODONI,20,20:00,Dordrecht - Excelsior,x,30.00,3.49,,2 : 2,win
+DODONI,20,19:00,Hatayspor - Bodrumspor,x,30.00,3.07,,0 : 1,loss
+DODONI,21,15:00,Venezia - Genoa,x,30.00,3.18,,2 : 0,loss
+DODONI,21,16:00,Mansfield - Shrewsbury,x,30.00,3.70,,2 : 1,loss
+DODONI,22,13:30,Elversberg - Ulm,x,30.00,3.54,,1 : 3,loss
+DODONI,22,14:00,Varnamo - Vasteras SK,x,30.00,3.22,,2 : 0,loss
+DODONI,23,19:00,Oddevold - Orebro,x,30.00,3.32,,0 : 0,win
+DODONI,23,20:00,Unirea Slobozia - FC Rapid Bucuresti,x,30.00,3.41,,1 : 2,loss
+DODONI,24,20:30,Clermont - Red Star,x,30.00,3.32,,1 : 1,win
+DODONI,24,20:45,AFC Fylde - Tamworth,x,30.00,3.45,,1 : 2,loss
+BAYERN777,1,14:30,FC Copenhagen - Brondby /Denmark Superliga,BTS,30.00,1.58,,3 : 1,undefined
+BAYERN777,1,14:30,Chelsea - Crystal Palace,1,30.00,1.61,,1 : 1,loss
+BAYERN777,2,01:00,Paraguay U20 W - Morocco U20 W,1,30.00,2.00,,2 : 0,win
+BAYERN777,2,16:30,Israel U20 - Bulgaria U20,1,30.00,1.81,,0 : 3,loss
+BAYERN777,3,01:00,Marinos - Guaiqueries,1,20.00,1.53,,75 : 90,loss
+BAYERN777,3,00:30,Toluca W - Guadalajara Chivas W,2,30.00,1.52,,2 : 0,loss
+BAYERN777,4,20:00,Servette Geneve FC W (Sui) - Pogon Szczecin W (Pol),1,30.00,1.72,,1 : 0,win
+BAYERN777,4,16:00,Eintracht Frankfurt - Sporting /Champions League Women,Btts,20.00,1.80,,0 : 2,undefined
+BAYERN777,5,02:00,Titanes Del Licey - Reales de la Vega,1,30.00,1.50,,90 : 85,win
+BAYERN777,5,10:00,Trungelliti M. - Lokoli L.,1,30.00,1.62,,1 : 2,loss
+BAYERN777,6,11:30,Central Coast Mariners U23 - Bulls Academy,1,30.00,1.65,,4 : 0,win
+BAYERN777,6,21:00,Egipt - Wyspy Zielonego Przylądka /Africa Cup of Nations,1,30.00,1.55,,3 : 0,win
+BAYERN777,7,20:45,Ukraina - Albania,Btts,30.00,2.00,,1 : 2,undefined
+BAYERN777,7,16:00,Altrincham - Ebbsfleet,1,30.00,1.83,,4 : 0,win
+BAYERN777,8,20:45,Switzerland - Spain,2,3.00,1.80,,1 : 4,win
+BAYERN777,8,22:30,San Marcos - AD Cantolao,1,4.00,1.53,,0 : 1,loss
+BAYERN777,9,17:00,Vukovar 1991 - Cibalia,1,30.00,1.52,,2 : 0,win
+BAYERN777,9,19:00,Netherlands U19 - Scotland U19,1,30.00,1.55,,2 : 2,loss
+BAYERN777,10,20:45,Stamford - Barwell,1,30.00,1.79,,3 : 1,win
+BAYERN777,10,20:00,Kuwait - Iraq,2,30.00,1.57,,0 : 0,loss
+BAYERN777,11,19:00,Lokomotive Leipzig - Zwickau,1,30.00,1.68,,3 : 2,win
+BAYERN777,11,02:30,Paraguay - Brazil,2,30.00,1.52,,1 : 0,loss
+BAYERN777,12,03:00,Colombia U20 W - South Korea U20 W,1,30.00,1.56,,1 : 0,win
+BAYERN777,12,02:00,Cerro Porteno - Sportivo Trinidense,1,30.00,1.63,,1 : 1,loss
+BAYERN777,13,20:00,Royal Union SG U21 - Lokeren-Temse U21,1,30.00,1.51,,3 : 1,win
+BAYERN777,14,00:00,Union Florida W - Malvin W,2,30.00,1.50,,51 : 49,loss
+BAYERN777,14,01:30,Atlanta Dream W - Washington Mystics W,1,30.00,1.52,,69 : 72,loss
+BAYERN777,15,13:30,San Miguel Beermen - Barangay Ginebra San Miguel,1,3.00,1.65,,131 : 82,win
+BAYERN777,15,12:00,Deichmann - Bulgaru / Romania,1,2.00,2.11,,1 : 2,loss
+BAYERN777,16,19:00,Nordsjaelland - Randers /Denmark Superliga,BTS,30.00,1.60,,1 : 1,undefined
+BAYERN777,16,19:10,Hammarby - Norrkoping,1,30.00,1.54,,1 : 1,loss
+BAYERN777,17,21:00,AC Milan - Liverpool /Champions League,Btts,30.00,1.56,,1 : 3,undefined
+BAYERN777,17,19:00,Skovde W - Vasteras W,1,30.00,1.53,,27 : 23,win
+BAYERN777,18,05:05,U.N.A.M.- Pumas - Puebla,1,3.00,1.54,,1 : 0,win
+BAYERN777,18,18:45,Sparta Praha - Salzburg / Champions League,Btts,20.00,1.53,,3 : 0,undefined
+BAYERN777,19,18:45,Fredericia - Sporting,2,30.00,1.78,,19 : 37,win
+BAYERN777,19,04:00,Diablos Rojos - Panteras /Mexico LNBP,1,30.00,1.54,,95 : 69,win
+BAYERN777,20,19:00,Bueno G. - Ambrogi L. E.,1,30.00,1.51,,2 : 1,win
+BAYERN777,20,02:00,Minnesota Lynx W - Los Angeles Sparks W,1,30.00,1.55,,51 : 68,loss
+BAYERN777,21,16:00,Aston Villa - Wolves,1,3.00,1.56,,3 : 1,win
+BAYERN777,21,09:00,Ibragimova A. - Werner C.,1,3.00,1.50,,1 : 2,loss
+BAYERN777,22,15:00,Newcastle Utd W - Sheffield Utd W,1,30.00,1.59,,2 : 0,win
+BAYERN777,22,17:00,Tychy - S. Wola,1,30.00,1.56,,0 : 0,loss
+BAYERN777,23,00:00,Lobos Plateados - Diablos Rojos,2,30.00,1.53,,81 : 91,win
+BAYERN777,23,21:00,Fleetwood - Morecambe,1,30.00,1.59,,2 : 2,loss
+BAYERN777,24,19:00,Malmo - Karlskrona,1,30.00,1.59,,25 : 24,win
+BAYERN777,24,02:00,Santos - Novorizontino,1,30.00,1.59,,1 : 1,loss
+BAYERN777,25,19:00,Girona - Rayo Vallecano,1,30.00,1.74,,Soccer,undefined
+BAYERN777,25,20:30,Górnik Zabrze - Radomiak Radom,1,30.00,2.14,,Soccer,undefined
+BAYERN777,27,20:30,Wisła Kraków - Odra Opole,1,30.00,1.52,,Soccer,undefined
+Ruch1920,2,09:00,Fiji - Solomon Islands,1,30.00,1.78,,1 : 0,win
+Ruch1920,2,20:00,San Miguel - Patronato,1,30.00,1.69,,2 : 4,loss
+Ruch1920,3,20:45,Barrow - Bolton,2,30.00,1.77,,2 : 3,win
+Ruch1920,3,16:00,India - Mauritius,1,30.00,1.53,,0 : 0,loss
+Ruch1920,4,20:00,Servette Geneve FC W (Sui) - Pogon Szczecin W (Pol),1,30.00,1.72,,1 : 0,win
+Ruch1920,5,20:45,Portugalia - Chorwacja /UEFA Nations League,BTS,30.00,1.95,,2 : 1,undefined
+Ruch1920,5,20:30,Rhein-Neckar - Kiel,2,30.00,1.54,,32 : 27,loss
+Ruch1920,6,20:45,UC Dublin - Cork City,2,30.00,2.05,,0 : 1,win
+Ruch1920,6,19:30,Hagen - Coburg 2000,1,30.00,1.64,,31 : 31,loss
+Ruch1920,7,11:30,Shimizu S-Pulse - V-Varen Nagasaki,1,30.00,1.74,,1 : 1,loss
+Ruch1920,7,16:00,Jeddeloh - Lubeck,2,30.00,2.00,,3 : 2,loss
+Ruch1920,8,20:45,Croatia - Poland,1,30.00,1.69,,1 : 0,win
+Ruch1920,8,21:00,Joinville - Concordia,1,30.00,1.64,,0 : 0,loss
+Ruch1920,9,17:00,Vukovar 1991 - Cibalia,1,30.00,1.52,,2 : 0,win
+Ruch1920,9,17:00,Niger - Ghana,2,30.00,1.60,,1 : 1,loss
+Ruch1920,10,15:00,Rwanda - Nigeria,2,30.00,1.71,,0 : 0,loss
+Ruch1920,11,19:30,Viktoria Herxheim - TuS Koblenz,2,30.00,1.64,,1 : 2,win
+Ruch1920,11,18:45,Aalborg - Nantes / Champions League,Aalborg Over 33.5,30.00,1.57,,38 : 31,undefined
+Ruch1920,12,19:00,Sonderjyske Ishockey - Bremerhaven,2,30.00,1.52,,0 : 5,win
+Ruch1920,12,22:15,AD Cantolao - Juan Pablo II,1,30.00,1.77,,0 : 1,loss
+Ruch1920,13,21:00,Betis - Leganes,1,30.00,1.64,,2 : 0,win
+Ruch1920,13,18:30,Wurzburger Kickers - Vilzing,1,30.00,1.60,,4 : 0,win
+Ruch1920,14,14:30,S. Wola - Wisla Plock,2,30.00,1.63,,1 : 3,win
+Ruch1920,14,13:00,Darmstadt - Braunschweig,1,30.00,1.84,,1 : 1,loss
+Ruch1920,15,19:15,Gent - KV Mechelen,1,30.00,1.61,,2 : 0,win
+Ruch1920,15,19:00,Trabzonspor - Besiktas,2,30.00,2.16,,1 : 1,loss
+Ruch1920,16,19:00,Tychy - Ruch Chorzow,2,30.00,2.45,,0 : 1,win
+Ruch1920,16,19:00,Nordsjaelland - Randers FC,1,30.00,1.70,,1 : 1,loss
+Ruch1920,17,21:00,AC Milan - Liverpool,2,30.00,1.95,,1 : 3,win
+Ruch1920,17,21:00,Sporting CP - Lille,1,30.00,1.66,,2 : 0,win
+Ruch1920,18,21:00,Club Brugge KV - Dortmund,2,30.00,2.00,,0 : 1,win
+Ruch1920,18,20:45,Nantes - Kielce,1,30.00,1.59,,23 : 20,win
+Ruch1920,19,18:45,Fredericia - Sporting,2,30.00,1.75,,19 : 37,win
+Ruch1920,19,21:00,Atalanta - Arsenal,2,30.00,1.82,,0 : 0,loss
+Ruch1920,20,18:00,Varazdin - Istra 1961,1,30.00,1.89,,1 : 0,win
+Ruch1920,20,19:00,VPS - HJK,2,30.00,1.62,,1 : 1,loss
+Ruch1920,21,16:00,Aston Villa - Wolves,1,30.00,1.58,,3 : 1,win
+Ruch1920,21,14:00,SG Dynamo Dresden - Hansa Rostock,1,30.00,1.65,,1 : 1,loss
+Ruch1920,22,19:30,St. Pauli - RB Leipzig,2,30.00,1.66,,0 : 0,loss
+Ruch1920,22,20:45,Inter - AC Milan,1,30.00,1.70,,1 : 2,loss
+Ruch1920,23,20:30,Pescara - Perugia,1,30.00,1.85,,0 : 0,loss
+Ruch1920,23,21:15,Valur - Stjarnan,1,30.00,1.64,,2 : 2,loss
+Ruch1920,24,17:00,LKS Lodz II - Kotwica Kolobrzeg,2,30.00,1.65,,2 : 3,win
+Ruch1920,24,20:30,S. Rzeszow - Pogon Szczecin,2,30.00,1.59,,0 : 3,win
+andrus,1,14:30,Chelsea - Crystal Palace,1,30.00,1.61,,1 : 1,loss
+andrus,1,18:30,Genoa - Verona,1,30.00,2.01,,0 : 2,loss
+andrus,3,20:00,Exeter - Swindon,1,30.00,1.65,,2 : 1,win
+andrus,3,20:00,Newport - Cheltenham,1,30.00,2.47,,1 : 2,loss
+andrus,4,12:00,Yokohama F. Marinos - Hokkaido Consadole Sapporo,1,30.00,1.52,,6 : 1,win
+andrus,4,20:00,Deportivo Muniz - Club Lujan,1,30.00,1.94,,0 : 1,loss
+andrus,5,03:00,Mexico - Monterrey,1,30.00,1.55,,14 : 6,win
+andrus,5,20:45,Scotland - Poland,x,30.00,3.13,,2 : 3,loss
+andrus,6,20:45,Iceland - Montenegro,1,30.00,2.13,,2 : 0,win
+andrus,6,18:00,Turkey U20 - England U20,2,30.00,1.90,,1 : 1,loss
+andrus,7,15:30,Bala - Cardiff Metropolitan,2,30.00,3.87,,0 : 1,win
+andrus,8,18:00,Denmark - Serbia,1,30.00,1.82,,2 : 0,win
+andrus,8,20:45,Croatia - Poland,1,30.00,1.80,,1 : 0,win
+andrus,9,18:00,Uganda - Congo,1,30.00,1.82,,2 : 0,win
+andrus,9,17:00,Equatorial Guinea - Togo,1,30.00,1.94,,2 : 2,loss
+andrus,10,18:00,United Arab Emirates - Iran,2,30.00,1.65,,0 : 1,win
+andrus,10,16:00,Kyrgyzstan - Uzbekistan,2,30.00,1.50,,2 : 3,win
+andrus,13,19:00,Rosengard - Ariana,1,30.00,2.35,,0 : 0,loss
+andrus,13,20:00,Al Nassr - Al Ahli SC,1,30.00,1.85,,1 : 1,loss
+andrus,14,15:30,Freiburg - Bochum,1,30.00,1.61,,2 : 1,win
+andrus,18,19:00,Betis - Getafe,1,30.00,1.91,,2 : 1,win
+andrus,18,18:45,Bologna - Shakhtar Donetsk,2,30.00,4.09,,0 : 0,loss
+andrus,23,19:30,Xamax - Stade Nyonnais,1,30.00,1.87,,3 : 2,win
+andrus,23,20:45,Shamrock Rovers - Bohemians,x,30.00,3.72,,1 : 0,loss
+andrus,25,03:00,Burel C. - Dolehide C.,1,30.00,1.65,,Tennis,undefined
+Fuji1978,9,18:00,Madagascar - Comoros,1,30.00,2.45,,1 : 1,loss
+Fuji1978,9,21:00,Castellon - Cadiz CF,x,30.00,3.23,,1 : 3,loss
+Fuji1978,10,18:30,Norway U21 - Italy U21,2,30.00,2.02,,0 : 3,win
+Fuji1978,10,16:00,Petrzalka - FK Humenne,1,30.00,1.78,,2 : 1,win
+Fuji1978,11,23:00,U. Magdalena - Real Cundinamarca,1,30.00,1.77,,1 : 0,win
+Fuji1978,11,23:00,Deportivo Mixco - Xelaju,x,30.00,2.67,,1 : 0,loss
+Fuji1978,12,13:30,Port MTI FC - Buriram,2,30.00,1.94,,0 : 0,loss
+Fuji1978,12,22:00,Ayacucho - San Marcos,1,30.00,1.88,,2 : 3,loss
+Fuji1978,13,18:00,Motor Lublin - Gornik Zabrze,2,30.00,2.68,,1 : 0,loss
+Fuji1978,13,20:45,St Etienne - Lille,2,30.00,1.78,,1 : 0,loss
+Fuji1978,14,16:00,Salford - Cheltenham,1,30.00,1.83,,2 : 1,win
+Fuji1978,14,18:30,Cerro Largo - Miramar,1,30.00,2.12,,1 : 2,loss
+Fuji1978,16,21:00,Rayo Vallecano - Osasuna,1,30.00,2.08,,3 : 1,win
+Fuji1978,18,18:00,IMT Novi Beograd - Radnicki 1923,2,30.00,2.57,,0 : 4,win
+Fuji1978,18,12:00,Kyoto - Chiba,1,30.00,2.21,,3 : 0,win
+Fuji1978,19,18:00,Dinamo Tbilisi - Dinamo Batumi,1,30.00,2.46,,1 : 0,win
+Fuji1978,19,22:30,Nueve de Octubre - Ind. Juniors,2,30.00,3.01,,2 : 2,loss
+Fuji1978,20,20:30,Catanzaro - Cremonese,2,30.00,2.27,,1 : 2,win
+Fuji1978,20,19:00,Viborg - Nordsjaelland,2,30.00,2.16,,3 : 2,loss
+Fuji1978,22,17:30,Lok. Zagreb - Osijek,2,30.00,2.39,,0 : 1,win
+Fuji1978,22,16:30,Sion - Lugano,1,30.00,2.70,,0 : 0,loss
+Fuji1978,23,19:00,Sanliurfaspor - Karagumruk,2,30.00,2.50,,1 : 3,win
+Fuji1978,23,20:30,Huesca - Cordoba,1,30.00,2.40,,4 : 1,win
+Fuji1978,24,19:00,Aue - Wehen,1,30.00,2.48,,2 : 1,win
+Fuji1978,24,20:30,Clermont - Red Star,1,30.00,2.06,,1 : 1,loss
