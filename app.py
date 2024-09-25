@@ -9,6 +9,23 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
+st.set_page_config(
+    page_title="My Streamlit App",
+    layout="wide"  # Use 'wide' layout
+)
+
+# Custom CSS to control the width of the main content area
+st.markdown(
+    """
+    <style>
+    .reportview-container {
+        width: 67% !important;  /* Set width to approximately 2/3 */
+        margin: auto;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 def scrape_data(url):
     # Send a GET request to the webpage
