@@ -116,7 +116,10 @@ def determine_outcome(row):
 # List of URLs to scrape
 urls = [
     'https://typersi.com/typer,52146,Pignoufett.html',
+    'https://typersi.com/typer,37042,Lenkapas.hrml',
     'https://typersi.com/typer,36030,BLX.hrml',
+    'https://typersi.com/typer,28001,Gasior15.hrml',
+    'https://typersi.com/typer,33266,klaudia.hrml',
     'https://typersi.com/typer,45260,maer20.hrml',
     'https://typersi.com/typer,24813,kapsel007.html',
     'https://typersi.com/typer,26940,Vitpas.hrml',
