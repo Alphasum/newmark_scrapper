@@ -27,10 +27,8 @@ def fetch_data(urls):
                 if cols:
                     day = cols[1].text.strip()
                     time = cols[2].text.strip()
-                    bookmaker = cols[3].find('a')['href'] if cols[3].find('a') else "N/A"
                     match_league = cols[4].text.strip()
                     tip = cols[5].text.strip()
-                    stake = cols[6].text.strip()
                     odd = cols[7].text.strip()
 
                     # Extract score and outcome
@@ -42,7 +40,7 @@ def fetch_data(urls):
                         score = score_cell.text.strip()
                         outcome = 'N/A'
 
-                    all_data.append([day, time, bookmaker, match_league, tip, stake, odd, score, outcome, effectiveness, url])
+                    all_data.append([day, time, match_league, tip, odd, score, outcome, effectiveness])
         except Exception as e:
             st.error(f"An error occurred while fetching data from {url}: {e}")
 
@@ -107,7 +105,7 @@ def main():
     if data:
         # Create a DataFrame
         columns = [
-            "Day", "Time", "Bookmaker", "Match/League", "Tip", "Stake", "Odds", "Score", "Outcome", "Effectiveness", "Source"
+            "Day", "Time", "Match/League", "Tip", "Odds", "Score", "Outcome", "Effectiveness"
         ]
         df = pd.DataFrame(data, columns=columns)
 
@@ -146,4 +144,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
