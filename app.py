@@ -132,8 +132,18 @@ def main():
             file_name="sports_predictions_filtered.csv",
             mime="text/csv",
         )
+
+        # Option to download the table as JSON
+        json_data = df.to_json(orient="records")
+        st.download_button(
+            label="Download JSON",
+            data=json_data,
+            file_name="sports_predictions_filtered.json",
+            mime="application/json",
+        )
     else:
         st.write("No data available or failed to fetch data.")
 
 if __name__ == "__main__":
     main()
+
