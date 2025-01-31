@@ -2,11 +2,12 @@ import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime
 
 def fetch_data(urls):
     """Fetch and parse data from the given URLs."""
     all_data = []
+    today = datetime.now().day  # Get today's date (day only)
 
     for url in urls:
         try:
@@ -26,28 +27,29 @@ def fetch_data(urls):
                 cols = row.find_all('td')
                 if cols:
                     day = cols[1].text.strip()
-                    time = cols[2].text.strip()
-                    match_league = cols[4].text.strip()
-                    tip = cols[5].text.strip()
-                    odd = cols[7].text.strip()
+                    if day.isdigit() and int(day) == today:
+                        time = cols[2].text.strip()
+                        match_league = cols[4].text.strip()
+                        tip = cols[5].text.strip()
+                        odd = cols[7].text.strip()
 
-                    # Extract score and outcome
-                    score_cell = cols[8]
-                    if score_cell.find('div'):
-                        score = score_cell.find('div').text.strip()
-                        outcome = 'Win' if '_twin' in score_cell['class'] else 'Loss'
-                    else:
-                        score = score_cell.text.strip()
-                        outcome = 'N/A'
+                        # Extract score and outcome
+                        score_cell = cols[8]
+                        if score_cell.find('div'):
+                            score = score_cell.find('div').text.strip()
+                            outcome = 'Win' if '_twin' in score_cell['class'] else 'Loss'
+                        else:
+                            score = score_cell.text.strip()
+                            outcome = 'N/A'
 
-                    all_data.append([day, time, match_league, tip, odd, score, outcome, effectiveness])
+                        all_data.append([day, time, match_league, tip, odd, score, outcome, effectiveness])
         except Exception as e:
             st.error(f"An error occurred while fetching data from {url}: {e}")
 
     return all_data
 
 def main():
-    st.title("Web Scraper for Sports Predictions")
+    st.title("Web Scraper for Today's Sports Predictions")
 
     # List of source URLs
     urls = [
@@ -97,7 +99,7 @@ def main():
         'https://typersi.com/typer/24695/Maczan88'
     ]
 
-    st.write("Fetching data from multiple sources...")
+    st.write("Fetching data for today...")
 
     # Fetch data
     data = fetch_data(urls)
@@ -109,17 +111,12 @@ def main():
         ]
         df = pd.DataFrame(data, columns=columns)
 
-        # Filter data for today's and tomorrow's dates
-        today = datetime.now().day
-        tomorrow = (datetime.now() + timedelta(days=1)).day
-        df = df[df["Day"].astype(int).isin([today, tomorrow])]
-
         # Convert effectiveness to numeric for sorting
         df["Effectiveness"] = pd.to_numeric(df["Effectiveness"], errors='coerce')
         df = df.sort_values(by="Effectiveness", ascending=False)
 
         # Display the table
-        st.write("### Extracted and Filtered Table")
+        st.write("### Extracted Table for Today")
         st.dataframe(df)
 
         # Option to download the table as CSV
@@ -127,7 +124,7 @@ def main():
         st.download_button(
             label="Download CSV",
             data=csv,
-            file_name="sports_predictions_filtered.csv",
+            file_name="sports_predictions_today.csv",
             mime="text/csv",
         )
 
@@ -136,11 +133,11 @@ def main():
         st.download_button(
             label="Download JSON",
             data=json_data,
-            file_name="sports_predictions_filtered.json",
+            file_name="sports_predictions_today.json",
             mime="application/json",
         )
     else:
-        st.write("No data available or failed to fetch data.")
+        st.write("No data available for today.")
 
 if __name__ == "__main__":
     main()
