@@ -120,6 +120,10 @@ def main():
         'https://typersi.com/typer/61158/realproper',
         'https://typersi.com/typer/59310/VitOld',
         'https://typersi.com/typer/36030/BLX',
+        'https://typersi.com/typer/30348/kaleros',
+        'https://typersi.com/typer/48281/Weevix',
+        'https://typersi.com/typer/27014/Pasquardo',
+        'https://typersi.com/typer/61638/Kunzy01',
         'https://typersi.com/typer/24695/Maczan88'
     ]
 
