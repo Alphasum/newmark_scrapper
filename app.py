@@ -54,6 +54,9 @@ def main():
     # List of source URLs
     urls = [
         'https://typersi.com/typer/24683/tagog',
+        'https://typersi.com/typer/52048/darson74',
+        'https://typersi.com/typer/54469/weberick',
+        'https://typersi.com/typer/61848/Suleiman',
         'https://typersi.com/typer/59310/VitOld',
         'https://typersi.com/typer/52132/kasa',
         'https://typersi.com/typer/25052/Machin1990',
@@ -124,6 +127,8 @@ def main():
         'https://typersi.com/typer/48281/Weevix',
         'https://typersi.com/typer/27014/Pasquardo',
         'https://typersi.com/typer/61638/Kunzy01',
+        'https://typersi.com/typer/48665/Longwin',
+        'https://typersi.com/typer/60849/Iwonka1990',
         'https://typersi.com/typer/24695/Maczan88'
     ]
 
